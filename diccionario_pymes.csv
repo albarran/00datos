@@ -1,0 +1,29 @@
+variable,descripcion,tipo,problemas
+empresa_id,Identificador único de la empresa,Numérica (ID),Ninguno
+sector,Sector económico de actividad,Categórica,"Inconsistencias de texto (mayúsculas, tildes)"
+pais,País de origen de la empresa,Categórica,Categorías con pocas observaciones
+tipo_propiedad,Tipo de estructura de propiedad,Categórica,Categorías con pocas observaciones
+tamano_ciudad,Tamaño de la ciudad donde opera,Categórica,Categoría 'Rural' con pocas observaciones
+anio_fundacion,Año de fundación de la empresa,Fecha (año),Almacenada como texto (debería ser numérica/fecha)
+empleados,Número de empleados,Numérica,Almacenada como texto (debería ser numérica)
+activos_total,Total de activos en miles de euros,Numérica,Contiene outliers extremos
+pasivos,Total de pasivos en miles de euros,Numérica,"Valores faltantes, recalcular desde activos-patrimonio"
+patrimonio_neto,Patrimonio neto en miles de euros,Numérica,Valores faltantes
+total_recursos,Total de recursos (pasivos + patrimonio),Numérica,Variable redundante (= activos_total)
+ingresos,Ingresos anuales en miles de euros,Numérica,Distribución muy asimétrica
+ebitda,EBITDA en miles de euros,Numérica,Valores faltantes
+ebitda_pct,EBITDA como porcentaje de ingresos,Numérica,Valores faltantes
+beneficio_neto,Beneficio neto en miles de euros,Numérica,"Valores faltantes, ROE depende de esta"
+liquidez_ratio,Ratio de liquidez (Activo corriente/Pasivo corriente),Numérica,Almacenada como texto (debería ser numérica)
+roe,Return on Equity (Rentabilidad sobre patrimonio) en %,Numérica,Valores faltantes (por NAs en beneficio_neto)
+roa,Return on Assets (Rentabilidad sobre activos) en %,Numérica,Ninguno
+deuda_patrimonio,Ratio deuda/patrimonio,Numérica,Contiene outliers extremos
+ventas_por_empleado,Ventas por empleado (productividad laboral) en miles de euros,Numérica,Ninguno
+innovacion_inversion,Inversión en innovación en miles de euros,Numérica,Valores faltantes
+innovacion_pct,Inversión en innovación como % de ingresos,Numérica,Valores faltantes
+exportaciones_pct,Porcentaje de ventas destinadas a exportación,Numérica,Valores faltantes
+antiguedad_clientes,Antigüedad promedio de clientes en años,Numérica,Valores faltantes
+diversificacion_score,Score de diversificación de productos/servicios (0-100),Numérica,Ninguno
+morosidad_dias,Días promedio de morosidad en cobros,Numérica,"Valores faltantes, outliers extremos"
+rating_credito,Rating crediticio (AAA a D),Categórica Ordinal,"Categorías CCC, CC, C, D con muy pocas observaciones"
+prob_default,Probabilidad estimada de default en %,Numérica,Ninguno
