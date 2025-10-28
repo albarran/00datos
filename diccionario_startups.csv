@@ -1,0 +1,32 @@
+variable,descripcion,tipo,problemas
+startup_id,Identificador único de la startup,Numérica (ID),Ninguno
+subsector,Subsector fintech de actividad,Categórica,Inconsistencias de texto (mayúsculas)
+pais,País de origen de la startup,Categórica,Categorías con pocas observaciones
+modelo_negocio,Modelo de negocio principal,Categórica,Categoría 'Plataforma' con pocas observaciones
+etapa,Etapa de inversión/desarrollo,Categórica,Categorías 'Serie D+' e 'IPO' con pocas observaciones
+anio_fundacion,Año de fundación,Fecha (año),Almacenada como texto (debería ser numérica/fecha)
+empleados,Número de empleados,Numérica,Almacenada como texto (debería ser numérica)
+financiacion_total,Financiación total recibida en millones de euros,Numérica,Contiene outliers extremos
+valoracion,Valoración estimada en millones de euros,Numérica,Contiene outliers extremos
+ratio_valoracion_financiacion,Ratio valoración/financiación (múltiplo),Numérica,Variable redundante (se puede calcular)
+ingresos,Ingresos anuales en millones de euros,Numérica,"Valores faltantes, algunos ceros"
+crecimiento_anual,Tasa de crecimiento anual de ingresos en %,Numérica,Valores faltantes
+burn_rate,Burn rate mensual en miles de euros,Numérica,Almacenada como texto (debería ser numérica)
+runway_meses,Meses de runway (liquidez disponible),Numérica,Almacenada como texto (debería ser numérica)
+ingresos_por_empleado,Ingresos por empleado en miles de euros,Numérica,Valores faltantes (depende de ingresos)
+usuarios,Número de usuarios o clientes,Numérica,Contiene outliers extremos
+tasa_retencion,Tasa de retención de clientes en %,Numérica,Valores faltantes
+cac,Customer Acquisition Cost en euros,Numérica,Ninguno
+ltv,Lifetime Value del cliente en euros,Numérica,Valores faltantes
+ltv_cac_ratio,Ratio LTV/CAC,Numérica,Valores faltantes (depende de LTV)
+marketing_pct,Inversión en marketing como % de ingresos,Numérica,Ninguno
+cuota_mercado,Cuota de mercado estimada en %,Numérica,Valores faltantes
+id_pct,Inversión en I+D como % de ingresos,Numérica,Ninguno
+patentes,Número de patentes registradas,Numérica (conteo),Valores faltantes
+tech_score,Puntuación de tecnología (0-100),Numérica,Ninguno
+num_integraciones,Número de integraciones con partners,Numérica (conteo),Ninguno
+paises_operacion,Número de países donde opera,Numérica (conteo),Ninguno
+compliance_score,Score de cumplimiento regulatorio (0-100),Numérica,Ninguno
+incidentes_seguridad,Número de incidentes de seguridad (último año),Numérica (conteo),Ninguno
+rating_riesgo,Rating de riesgo de la startup,Categórica Ordinal,Categoría 'Muy Alto' con pocas observaciones
+prob_exito,Probabilidad estimada de éxito en %,Numérica,Ninguno
