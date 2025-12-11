@@ -1,0 +1,10 @@
+| variable                  | description                                | type        | source                    | Comments                       |
+|---------------------------|--------------------------------------------|-------------|---------------------------|--------------------------------|
+| country                   | Country name                               | Categorical | UNWTO/Eurostat            |                                |
+| country_code              | ISO 2-letter country code                  | Categorical | ISO 3166-1                |                                |
+| tourism_arrivals_2023     | International tourist arrivals in 2023     | Numeric     | UNWTO Tourism Highlights  | Millions of arrivals           |
+| tourism_receipts_bn_eur   | International tourism receipts in 2023     | Numeric     | UNWTO/World Bank          | Billions of EUR                |
+| avg_stay_nights           | Average length of stay for tourists        | Numeric     | Eurostat                  | Number of nights               |
+| hotel_occupancy_rate_2023 | National average hotel occupancy rate 2023 | Numeric     | STR Global/National stats | Proportion (0-1)               |
+| tourism_gdp_share         | Tourism direct contribution to GDP         | Numeric     | WTTC                      | Percentage of GDP              |
+| seasonality_index         | Peak-to-trough ratio of monthly arrivals   | Numeric     | Eurostat                  | Ratio (higher = more seasonal) |
