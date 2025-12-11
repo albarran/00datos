@@ -1,0 +1,826 @@
+hotel_id,hotel_name,country,city,star_rating,hotel_type,chain_affiliation,rooms,employees,year_opened,last_renovation,occupancy_rate,adr,revpar,annual_revenue,profit_margin,customer_satisfaction,online_rating,n_reviews
+HTL_0612,Hotel_Hamburg_612,germany,Hamburg,3,Resort,,207,175,1929,2015.0,0.802,162.72,130.44,9855.3,0.061,8.7,4.1,1205
+HTL_0175,Hotel_Frankfurt_175,Deutschland,Frankfurt,5,Chain - National,Marriott,123,150,1996,2003.0,0.834,269.83,224.9,10097.0,-0.041,7.8,4.0,504
+HTL_0068,Hotel_Madrid_68,Spain,Madrid,5,Chain - National,NH Hotels,93,127,1985,2008.0,0.879,224.35,197.24,6695.5,-0.017,8.7,3.5,427
+HTL_0169,Hotel_Vienna_169,Austria,Vienna,2,Independent,,127,122,1993,2010.0,0.731,163.21,119.35,,0.238,5.8,3.1,860
+HTL_0276,Hotel_Frankfurt_276,germany,Frankfurt,4,Chain - International,NH Hotels,124,119,1998,2020.0,0.843,243.08,204.94,9275.8,0.181,9.2,3.8,372
+HTL_0337,Hotel_Salzburg_337,AUSTRIA,Salzburg,four,Resort,,225,253,1865,,0.778,135.09,105.12,8633.2,0.048,7.6,3.5,1717
+HTL_D0515,Hotel_Porto_515,Portugal,Porto,4*,Chain - National,Local Chain,91,90,2012,,0.739,164.84,121.83,4046.5,0.079,7.5,3.7,394
+HTL_0087,Hotel_Venice_87,Italy,Venice,4,Boutique,Hilton,49,42,2018,,0.771,197.14,151.91,2717.0,0.003,7.8,3.9,351
+HTL_0542,Hotel_Valencia_542,ES,Valencia,3*,Boutique,,90,84,1974,2007.0,0.858,103.82,89.1,2926.8,0.001,7.0,3.4,388
+HTL_0717,Hotel_Naples_717,IT,Naples,3,Chain - International,Local Chain,96,81,2006,2013.0,0.711,150.64,107.17,3755.2,0.056,6.9,3.4,618
+HTL_0437,Hotel_Florence_437,Italy,Florence,3,Boutique,,119,85,1995,2007.0,0.796,143.25,114.06,4954.4,,7.1,3.6,790
+HTL_0266,Hotel_Faro_266,Portugal,Faro,4,Resort,,228,282,1926,2015.0,0.8,116.93,93.5,7781.0,0.081,9.1,4.6,490
+HTL_0413,Hotel_Venice_413,Italy,Venice,3,Chain - International,NH Hotels,92,89,2001,2012.0,0.826,175.98,145.43,4883.4,0.055,8.3,4.0,507
+HTL_0031,Hotel_Madrid_31,spain,Madrid,4,Boutique,,83,90,1970,2023.0,0.98,213.08,208.82,6326.2,0.104,6.5,3.1,582
+HTL_0381,Hotel_Hamburg_381,germany,Hamburg,3,Chain - International,Marriott,82,65,2009,2023.0,0.649,243.47,157.91,4726.2,0.131,6.9,3.2,359
+HTL_0670,Hotel_Paris_670,FR,Paris,3,Chain - International,Local Chain,73,60,1985,2016.0,0.594,128.51,76.27,2032.3,0.048,6.8,3.3,222
+HTL_0040,Hotel_Rome_40,IT,Rome,3,Boutique,,64,58,1861,2009.0,0.83,178.39,148.11,3459.8,0.028,6.9,4.1,150
+HTL_0214,Hotel_Rome_214,Italy,Rome,4,Independent,,134,136,1969,2009.0,0.751,196.03,147.19,,-0.034,8.0,4.0,631
+HTL_0788,Hotel_Bilbao_788,spain,Bilbao,1,Independent,,39,17,1980,2022.0,0.508,42.65,21.69,308.7,-0.209,7.1,3.7,196
+HTL_0363,Hotel_Lisbon_363,Portugal,Lisbon,3 star,Independent,,133,107,1987,2019.0,0.724,94.62,68.46,3323.5,0.206,7.8,3.9,572
+HTL_0787,Hotel_Paris_787,france,Paris,4,Chain - International,Meliá,97,115,2004,2013.0,0.831,251.78,209.1,7403.3,0.036,8.4,3.7,246
+HTL_0286,Hotel_Marseille_286,FRANCE,Marseille,1,Independent,,105,60,2004,2018.0,0.573,115.44,66.2,2537.1,0.029,6.9,3.2,294
+HTL_0710,Hotel_Bordeaux_710,FRANCE,Bordeaux,4,Independent,,68,73,1971,2002.0,0.695,209.28,145.43,3609.5,0.14,8.3,4.1,288
+HTL_0553,Hotel_Seville_553,SPAIN,Seville,4,Business,,175,185,1964,,0.737,166.52,122.66,7835.1,0.15,8.1,4.0,1153
+HTL_0421,Hotel_Madeira_421,Portugal,Madeira,2,Independent,,77,50,1966,2007.0,0.648,67.53,43.78,1230.3,0.152,6.2,3.2,366
+HTL_0738,Hotel_Milan_738,Italia,Milan,2,Boutique,NH Hotels,75,40,1875,2020.0,0.661,146.0,96.44,2640.1,0.127,6.5,3.6,456
+HTL_0433,Hotel_Malaga_433,ES,Malaga,5,Chain - International,Hilton,103,136,2008,,0.835,229.09,191.22,7189.0,0.206,8.8,4.0,631
+HTL_0255,Hotel_Lyon_255,FR,Lyon,2 star,Chain - International,Hyatt,106,79,2004,2011.0,0.901,82.52,74.34,2876.4,0.16,6.5,3.1,409
+HTL_0641,Hotel_Hamburg_641,Germany,Hamburg,3,Business,,115,113,1973,2008.0,0.554,225.27,124.7,5234.3,0.244,7.4,3.3,335
+HTL_0156,Hotel_Madeira_156,Portugal,Madeira,4,Independent,,102,122,2017,,0.836,158.13,132.2,4921.7,-0.024,8.8,4.2,580
+HTL_0334,Hotel_Paris_334,France,Paris,4,Boutique,,28,31,1991,2001.0,0.814,179.51,146.08,1492.9,0.002,8.5,4.6,57
+HTL_0328,Hotel_Venice_328,Italy,Venice,3,Independent,NH Hotels,64,62,1995,2021.0,0.8,110.31,88.2,2060.4,0.128,7.4,3.8,130
+HTL_0447,Hotel_Venice_447,IT,Venice,4 star,Independent,IHG,116,140,2000,2020.0,0.75,204.87,153.62,6504.2,0.041,9.6,4.4,755
+HTL_0138,Hotel_Venice_138,italy,Venice,3*,Chain - National,AccorHotels,145,157,1971,2014.0,0.66,204.39,134.86,7137.3,0.069,7.7,3.4,319
+HTL_0251,Hotel_Florence_251,italy,Florence,3,Chain - International,Radisson,98,92,1878,2014.0,0.822,185.77,152.71,5462.6,0.143,7.3,3.9,698
+HTL_0535,Hotel_Naples_535,Italia,Naples,five,Resort,,318,417,2020,,0.772,299.7,231.47,26866.8,0.155,10.0,4.6,1030
+HTL_0066,Hotel_Florence_66,ITALY,Florence,2,Chain - National,Hyatt,71,60,2007,2010.0,0.632,102.56,64.82,1679.7,0.059,7.0,3.1,238
+HTL_0064,Hotel_Porto_64,Portugal,Porto,3,Business,,111,89,1964,2014.0,0.537,128.29,68.84,2789.2,0.161,7.3,3.9,499
+HTL_0672,Hotel_Barcelona_672,Spain,Barcelona,5 star,Resort,,241,255,2017,,0.759,130.7,99.26,8731.0,-0.063,,4.2,983
+HTL_0140,Hotel_Marseille_140,FRANCE,Marseille,4*,Independent,IHG,97,115,1965,2012.0,0.745,291.56,217.09,7686.1,0.133,7.5,3.2,625
+HTL_0024,Hotel_Bordeaux_24,FRANCE,Bordeaux,4,Independent,AccorHotels,115,127,1964,2006.0,0.65,304.45,197.95,8309.0,0.155,6.6,3.4,569
+HTL_0110,Hotel_Valencia_110,ES,Valencia,2*,Chain - International,IHG,87,69,1893,2017.0,0.907,59.99,54.38,1726.8,,5.8,2.8,577
+HTL_0213,Hotel_Barcelona_213,SPAIN,Barcelona,3,Independent,,110,106,1988,2006.0,0.808,82.23,66.4,2666.1,0.06,7.8,3.1,244
+HTL_0792,Hotel_Barcelona_792,spain,Barcelona,3,Chain - International,Marriott,117,110,2009,2022.0,0.831,164.01,136.33,5821.8,,6.5,2.8,734
+HTL_0320,Hotel_Thessaloniki_320,GREECE,Thessaloniki,3*,Chain - International,AccorHotels,137,138,1976,2008.0,0.837,110.59,92.52,4626.7,0.064,6.3,3.0,561
+HTL_0495,Hotel_Rome_495,Italia,Rome,2,Chain - National,Marriott,112,88,2015,,0.701,120.71,84.57,3457.4,0.008,5.7,3.2,554
+HTL_0722,Hotel_Faro_722,Portugal,Faro,3,Resort,,166,119,1915,2003.0,0.802,93.7,75.18,4555.1,,6.2,2.7,350
+HTL_0463,Hotel_Valencia_463,SPAIN,Valencia,3,Boutique,,59,49,1981,2004.0,0.98,116.51,114.18,2458.8,0.101,6.5,3.0,468
+HTL_0067,Hotel_Madeira_67,Portugal,Madeira,4 star,Boutique,,40,43,2005,2008.0,0.72,230.61,166.13,2425.6,0.003,7.1,4.1,181
+HTL_0743,Hotel_Marseille_743,france,Marseille,4,Independent,,97,104,1965,2004.0,0.98,224.14,219.66,7777.0,0.159,8.8,4.2,467
+HTL_0658,Hotel_Salzburg_658,AUSTRIA,Salzburg,5,Boutique,AccorHotels,46,67,2016,,0.805,270.53,217.89,3658.4,0.03,8.4,3.8,157
+HTL_0674,Hotel_Rome_674,Italia,Rome,3,Chain - International,NH Hotels,112,114,1976,2017.0,0.796,194.26,154.61,6320.5,0.175,7.7,3.9,712
+HTL_0335,Hotel_Venice_335,Italy,Venice,1,Resort,IHG,184,108,1961,2013.0,0.815,93.29,76.01,5104.8,0.085,,2.6,905
+HTL_0496,Hotel_Milan_496,Italy,Milan,4*,Chain - National,Meliá,85,92,1969,2023.0,0.615,198.99,122.41,3797.8,0.065,8.9,4.0,282
+HTL_0498,Hotel_Paris_498,FR,Paris,2,Chain - International,Hyatt,85,55,1960,2004.0,0.722,109.26,78.9,2447.7,0.062,7.2,3.6,537
+HTL_0581,Hotel_Bordeaux_581,france,Bordeaux,4,Chain - International,Hyatt,269,292,1990,,0.861,326.68,281.35,27624.0,0.085,10.0,4.3,1778
+HTL_0696,Hotel_Madrid_696,España,Madrid,3,Chain - International,AccorHotels,97,98,2001,2016.0,0.802,152.64,122.44,4335.0,0.186,6.4,3.4,413
+HTL_0209,Hotel_Innsbruck_209,Austria,Innsbruck,4*,Boutique,,49,50,1961,2008.0,0.831,294.74,244.98,4381.4,0.243,8.8,4.1,153
+HTL_0310,Hotel_Bilbao_310,spain,Bilbao,3,Chain - International,Local Chain,74,67,2014,,0.889,114.98,102.21,2760.6,0.087,7.9,3.1,576
+HTL_0686,Hotel_Bordeaux_686,France,Bordeaux,4,Resort,,205,246,2005,2011.0,0.98,237.68,232.93,17429.0,0.178,8.6,4.3,1947
+HTL_D0539,Hotel_Venice_539,Italy,Venice,4*,Business,,113,126,1974,,0.678,294.88,199.81,8241.3,0.156,7.4,4.0,729
+HTL_0549,Hotel_Nice_549,france,Nice,4,Boutique,,34,40,1998,2006.0,0.75,314.95,236.09,2929.8,0.024,8.0,3.7,88
+HTL_0383,Hotel_Milan_383,Italy,Milan,3,Chain - International,Hilton,60,53,1984,2005.0,0.777,108.4,84.2,1844.0,0.008,6.2,3.4,381
+HTL_0507,Hotel_Rotterdam_507,NL,Rotterdam,2,Resort,,89,76,1981,,0.713,136.7,97.42,3164.6,0.046,6.9,3.6,632
+HTL_0712,Hotel_Milan_712,ITALY,Milan,4 star,Resort,,230,276,1980,2001.0,0.98,167.57,164.22,13786.3,0.147,8.3,3.7,2167
+HTL_0210,Hotel_Paris_210,FR,Paris,4*,Boutique,AccorHotels,70,82,1999,2007.0,0.756,212.73,160.79,4108.2,0.12,7.2,3.2,136
+HTL_0780,Hotel_Rome_780,Italy,Rome,1,Independent,,10,5,1982,2022.0,0.623,53.34,33.24,121.3,0.08,6.0,3.2,55
+HTL_0079,Hotel_Athens_79,GR,Athens,1,Business,Hilton,42,23,1985,2020.0,0.642,59.36,38.09,584.0,,5.1,2.6,196
+HTL_0480,Hotel_Madrid_480,ES,Madrid,2,Independent,Hilton,39,19,1898,2004.0,0.684,79.66,54.48,775.6,0.106,6.6,2.6,206
+HTL_0050,Hotel_Frankfurt_50,germany,Frankfurt,4,Chain - International,Meliá,80,79,1993,2016.0,0.806,253.39,204.23,5963.4,0.159,8.2,3.9,527
+HTL_0097,Hotel_Santorini_97,GREECE,Santorini,4,Business,,88,104,1972,2013.0,0.844,210.45,177.66,5706.4,0.107,7.4,2.9,261
+HTL_0745,Hotel_Athens_745,GREECE,Athens,3,Business,,198,148,1979,2016.0,0.698,156.66,109.32,7900.7,0.258,8.0,4.2,1079
+HTL_0232,Hotel_Munich_232,GERMANY,Munich,1,Business,AccorHotels,71,33,1995,2014.0,0.552,87.15,48.11,1246.7,0.111,6.6,3.4,119
+HTL_0197,Hotel_Paris_197,France,Paris,2,Business,,74,52,2003,2004.0,0.703,151.37,106.35,2872.4,,5.9,2.8,349
+HTL_0205,Hotel_Florence_205,IT,Florence,2,Chain - National,Meliá,65,47,1979,2008.0,0.503,102.82,51.7,1226.5,0.116,5.9,2.4,241
+HTL_D0386,Hotel_Malaga_386,Spain,Malaga,5,Chain - National,Meliá,136,184,2005,2005.0,0.742,223.26,165.65,8223.1,0.169,10.0,4.7,825
+HTL_0034,Hotel_Seville_34,Spain,Seville,2,Budget,AccorHotels,128,117,2012,,0.747,64.9,48.46,2263.9,0.12,6.1,2.7,324
+HTL_0032,Hotel_Lisbon_32,Portugal,Lisbon,3,Resort,Marriott,201,169,1982,2004.0,0.628,132.66,83.26,6108.1,0.217,6.9,3.1,784
+HTL_0538,Hotel_Santorini_538,Greece,Santorini,4,Boutique,,72,73,1985,2022.0,0.771,209.63,161.66,4248.3,0.241,7.0,3.5,170
+HTL_0282,Hotel_Rotterdam_282,NETHERLANDS,Rotterdam,3,Independent,IHG,83,84,1973,2010.0,0.586,175.3,102.72,,0.016,6.7,3.3,403
+HTL_0339,Hotel_Frankfurt_339,germany,Frankfurt,1,Chain - National,Meliá,64,33,1961,2012.0,,91.78,36.05,842.1,,4.5,2.3,151
+HTL_0502,Hotel_Santorini_502,GR,Santorini,3,Boutique,,36,36,1961,2007.0,0.661,161.85,107.03,1406.4,0.203,6.3,3.2,175
+HTL_0216,Hotel_Madeira_216,PORTUGAL,Madeira,3,Independent,,50,50,1942,2017.0,0.778,132.97,103.43,1887.5,0.116,7.9,3.9,149
+HTL_0443,Hotel_Salzburg_443,AT,Salzburg,1 star,Independent,,67,37,2003,2017.0,0.646,86.63,55.94,1368.0,0.137,6.7,3.6,237
+HTL_0678,Hotel_Santorini_678,GR,Santorini,four,Business,,107,99,1983,,0.806,178.71,144.06,5626.1,0.093,7.0,3.2,553
+HTL_0073,Hotel_Mykonos_73,GR,Mykonos,3,Boutique,,42,34,1960,2022.0,0.924,63.52,58.69,899.7,0.079,8.8,4.6,214
+HTL_0078,Hotel_Bilbao_78,spain,Bilbao,5,Independent,,62,84,1984,2005.0,0.77,200.09,154.11,3487.4,0.118,8.8,4.2,398
+HTL_0550,Hotel_Nice_550,France,Nice,five,Chain - National,IHG,102,110,1977,2011.0,0.974,274.84,267.81,9970.6,0.062,7.9,4.4,782
+HTL_0526,Hotel_Barcelona_526,Spain,Barcelona,5 star,Resort,,443,573,2031,,0.98,208.55,204.38,33047.8,0.188,,4.0,3129
+HTL_D0747,Hotel_Naples_747,ITALY,Naples,1,Boutique,,16,8,1979,2000.0,0.861,64.01,55.13,322.0,0.092,7.7,3.4,92
+HTL_0293,Hotel_Venice_293,italy,Venice,3*,Independent,,99,89,2008,2012.0,0.537,182.04,97.84,,0.041,8.8,4.3,354
+HTL_0451,Hotel_Porto_451,Portugal,Porto,4,Resort,,242,266,2018,,0.906,131.38,118.99,10510.8,0.145,8.7,4.0,1036
+HTL_0356,Hotel_Munich_356,Germany,Munich,2,Boutique,,50,29,1878,2014.0,0.755,146.01,110.18,2010.9,0.066,6.2,2.9,219
+HTL_0610,Hotel_Athens_610,Greece,Athens,1*,Independent,,91,36,1982,2003.0,0.623,39.21,24.44,811.7,,7.5,3.6,368
+HTL_0353,Hotel_Venice_353,Italia,Venice,5,Budget,,204,256,2011,,0.814,249.54,203.14,15125.7,0.149,8.1,3.9,1024
+HTL_0537,Hotel_Milan_537,italy,Milan,4,Chain - National,IHG,99,91,1885,2004.0,0.747,142.22,106.21,3837.8,0.104,6.4,3.4,736
+HTL_0726,Hotel_Rome_726,Italy,Rome,3*,Independent,,57,49,1986,2023.0,0.484,214.29,103.67,2156.9,0.129,6.9,3.6,104
+HTL_0617,Hotel_Cologne_617,GERMANY,Cologne,4,Chain - National,Hilton,89,84,1980,2006.0,0.793,273.39,216.77,7041.6,0.059,7.1,2.9,272
+HTL_0395,Hotel_Barcelona_395,spain,Barcelona,2,Chain - National,Meliá,116,70,2017,,0.683,91.75,62.64,2652.0,-0.012,5.4,2.6,270
+HTL_0446,Hotel_Lyon_446,FR,Lyon,3,Resort,NH Hotels,134,135,1851,,0.88,248.39,218.52,10687.7,0.196,,3.5,1177
+HTL_0626,Hotel_Berlin_626,DE,Berlin,3,Independent,,79,76,1963,2020.0,0.676,176.33,119.14,3435.5,0.047,6.0,2.6,471
+HTL_0200,Hotel_Barcelona_200,España,Barcelona,4,Chain - National,IHG,86,98,1985,2013.0,0.895,149.22,133.54,4192.0,0.093,8.4,4.5,726
+HTL_0006,Hotel_Paris_6,France,Paris,1,Chain - International,Radisson,46,27,1992,2004.0,0.716,66.21,47.4,795.9,0.076,7.4,4.0,284
+HTL_0055,Hotel_Frankfurt_55,GERMANY,Frankfurt,3,Business,,68,45,2021,,0.701,232.37,162.99,4045.3,0.1,7.3,3.7,393
+HTL_0775,Hotel_Amsterdam_775,Holland,Amsterdam,5,Chain - International,Local Chain,115,132,1994,2021.0,0.86,366.25,315.09,13225.9,0.094,,4.1,363
+HTL_0611,Hotel_Cologne_611,germany,Cologne,5,Boutique,,47,62,1981,2013.0,0.782,262.31,205.22,3520.6,,7.7,3.7,140
+HTL_0267,Hotel_Cologne_267,Deutschland,Cologne,3,Independent,,133,100,2008,2021.0,0.633,197.88,125.21,6078.3,0.125,7.5,3.3,466
+HTL_0559,Hotel_Seville_559,Spain,Seville,4,Independent,,169,198,1969,2001.0,0.848,212.6,180.34,,,9.1,4.3,512
+HTL_0098,Hotel_Paris_98,France,Paris,2,Independent,AccorHotels,103,72,2019,,0.653,175.79,114.79,4315.4,0.039,5.8,2.7,259
+HTL_0193,Hotel_Marseille_193,France,Marseille,4,Boutique,,35,39,1982,2016.0,0.881,267.41,235.69,3010.9,0.144,7.5,3.8,96
+HTL_0077,Hotel_Salzburg_77,Austria,Salzburg,4 star,Resort,,167,155,1998,2008.0,0.856,218.14,186.62,11375.7,0.175,9.8,4.8,862
+HTL_0121,Hotel_Frankfurt_121,GERMANY,Frankfurt,4,Boutique,Marriott,44,50,1978,2015.0,0.649,211.77,137.52,2208.6,0.193,6.9,3.0,144
+HTL_0362,Hotel_Bordeaux_362,FRANCE,Bordeaux,3 star,Chain - International,Hyatt,87,86,1973,2021.0,0.946,206.88,195.76,6216.3,0.159,8.4,3.8,746
+HTL_0790,Hotel_Rotterdam_790,NL,Rotterdam,5,Chain - International,IHG,118,141,1978,2005.0,0.754,283.65,214.0,9217.0,0.14,7.5,3.6,725
+HTL_0219,Hotel_Cologne_219,Deutschland,Cologne,5,Chain - International,Marriott,173,217,1976,2004.0,0.98,239.78,234.99,14838.3,0.116,9.8,4.1,1298
+HTL_0382,Hotel_Barcelona_382,spain,Barcelona,4,Independent,Marriott,85,96,2011,,0.794,153.64,121.97,3784.2,0.045,8.0,4.3,555
+HTL_0440,Hotel_Madrid_440,España,Madrid,3,Independent,,106,109,1977,2011.0,0.822,110.34,90.71,3509.6,0.237,9.2,4.5,739
+HTL_D0625,Hotel_Bilbao_625,SPAIN,Bilbao,5,Independent,,84,104,1996,2021.0,0.876,184.58,161.61,4954.9,-0.086,7.6,3.6,632
+HTL_0085,Hotel_Barcelona_85,Spain,Barcelona,4*,Independent,,82,82,1990,2019.0,0.82,143.98,118.05,3533.2,0.153,,4.0,325
+HTL_0011,Hotel_Lyon_11,france,Lyon,3,Independent,,155,108,2008,2021.0,0.872,198.17,172.78,,0.136,8.2,4.0,1265
+HTL_0663,Hotel_Venice_663,Italy,Venice,4*,Chain - International,IHG,150,172,1985,2020.0,0.918,105.02,96.37,5276.5,0.17,8.4,4.1,537
+HTL_0111,Hotel_Bilbao_111,spain,Bilbao,3,Chain - National,Local Chain,72,54,1966,2011.0,0.671,75.52,50.66,1331.4,-0.104,6.7,3.2,132
+HTL_0639,Hotel_Venice_639,IT,Venice,5,Independent,,93,112,1996,2001.0,0.782,308.91,241.44,,0.271,9.1,4.0,341
+HTL_0514,Hotel_Berlin_514,Deutschland,Berlin,four,Chain - International,Marriott,145,152,1986,2000.0,0.868,268.89,233.31,12347.7,0.185,7.7,3.9,1172
+HTL_0366,Hotel_Cologne_366,Germany,Cologne,3,Chain - National,Hilton,56,54,2007,2012.0,0.632,187.71,118.65,2425.2,0.146,7.7,3.5,199
+HTL_0406,Hotel_Rome_406,ITALY,Rome,4,Independent,NH Hotels,119,136,1985,2011.0,0.677,285.99,193.49,8404.4,0.037,10.0,4.3,729
+HTL_0329,Hotel_Marseille_329,france,Marseille,2,Boutique,Marriott,10,7,1936,2010.0,0.662,,103.57,378.0,0.043,6.8,,44
+HTL_0597,Hotel_Athens_597,GREECE,Athens,2 star,Boutique,,28,22,2016,,0.725,98.06,71.1,726.6,0.143,7.3,3.7,79
+HTL_0119,Hotel_Valencia_119,SPAIN,Valencia,5 star,Independent,,172,232,1982,2011.0,0.71,239.3,169.89,,0.212,9.7,4.5,534
+HTL_0586,Hotel_Hamburg_586,Deutschland,Hamburg,1,Boutique,NH Hotels,39,14,1980,2021.0,0.488,60.11,29.31,417.2,0.088,5.8,3.4,81
+HTL_0301,Hotel_Seville_301,Spain,Seville,2,Resort,,189,123,1988,2020.0,0.625,88.19,55.09,3800.5,0.084,6.0,2.9,632
+HTL_0030,Hotel_Cologne_30,Germany,Cologne,3 star,Resort,,126,104,2020,,0.767,180.66,138.56,6372.3,-0.01,,3.2,754
+HTL_0368,Hotel_Paris_368,FRANCE,Paris,3,Boutique,,27,24,2008,,0.613,201.25,123.27,1214.8,0.111,8.3,3.9,109
+HTL_0351,Hotel_Naples_351,IT,Naples,2,Chain - International,IHG,38,27,2000,,0.552,129.2,71.26,988.3,-0.061,6.4,3.0,208
+HTL_0287,Hotel_Cologne_287,germany,Cologne,4,Budget,,228,252,1990,2020.0,0.489,240.09,117.36,9766.4,0.145,8.2,3.9,404
+HTL_0412,Hotel_Malaga_412,SPAIN,Malaga,4,Budget,,245,304,2010,,0.896,177.32,158.96,14215.2,0.037,8.1,3.0,664
+HTL_0082,Hotel_Barcelona_82,Spain,Barcelona,3,Chain - International,Marriott,72,77,1962,2017.0,0.72,154.62,111.38,2927.1,0.141,6.8,3.5,144
+HTL_0776,Hotel_Hamburg_776,Germany,Hamburg,2,Chain - National,Radisson,94,62,2008,2014.0,0.708,106.84,75.69,2597.0,0.239,5.0,2.8,512
+HTL_D0023,Hotel_Valencia_23,Spain,Valencia,4,Boutique,,50,48,1936,2021.0,0.689,167.79,115.65,2110.6,0.098,7.0,3.3,131
+HTL_0723,Hotel_Porto_723,PT,Porto,4,Independent,NH Hotels,77,99,2014,,0.644,236.16,151.98,4271.4,0.168,8.2,4.5,217
+HTL_0606,Hotel_Florence_606,Italia,Florence,4,Independent,,70,79,2021,,0.748,201.59,150.87,3854.8,0.274,8.3,3.9,378
+HTL_0707,Hotel_Nice_707,FRANCE,Nice,3,Chain - National,Best Western,79,76,1978,2020.0,0.756,194.47,147.09,4241.3,0.089,10.0,4.1,188
+HTL_0327,Hotel_Hamburg_327,DE,Hamburg,4 star,Chain - International,IHG,111,125,2011,,0.65,208.58,135.52,5490.4,0.102,9.5,4.4,687
+HTL_D0015,Hotel_Madeira_15,PT,Madeira,5,Chain - National,Radisson,83,105,1989,2009.0,0.832,135.09,112.42,3405.8,0.176,9.9,4.4,174
+HTL_0424,Hotel_Venice_424,IT,Venice,4,Business,,143,177,1963,2020.0,0.714,196.47,140.24,7319.7,0.086,7.8,3.6,710
+HTL_0448,Hotel_Munich_448,Deutschland,Munich,two,Chain - National,AccorHotels,86,44,2015,,0.664,153.82,102.13,3206.0,0.116,6.6,3.3,521
+HTL_0361,Hotel_Berlin_361,DE,Berlin,two,Chain - National,Radisson,33,21,1931,2014.0,0.765,146.0,111.74,1345.9,-0.05,7.7,3.8,111
+HTL_0760,Hotel_Valencia_760,Spain,Valencia,4,Chain - International,Radisson,113,117,1976,2006.0,0.934,136.98,127.95,5277.4,0.258,9.0,4.3,737
+HTL_0397,Hotel_Madeira_397,Portugal,Madeira,5,Resort,,241,305,1982,,0.928,184.82,171.54,15089.3,0.252,8.0,3.5,648
+HTL_0008,Hotel_Florence_8,Italia,Florence,4,Resort,,196,214,2022,,0.93,208.62,194.0,13878.9,0.166,9.1,4.3,1567
+HTL_0317,Hotel_Marseille_317,france,Marseille,4,Business,,124,138,1857,2023.0,0.778,164.74,128.11,5798.2,0.145,7.5,3.5,621
+HTL_0102,Hotel_Madrid_102,spain,Madrid,5,Boutique,NH Hotels,32,39,1960,2005.0,0.872,159.98,139.54,1629.8,0.141,8.5,3.9,122
+HTL_D0072,Hotel_Lyon_72,FR,Lyon,2 star,Chain - National,Meliá,92,45,1960,2007.0,0.902,193.12,174.25,5851.3,0.056,6.0,3.5,474
+HTL_0315,Hotel_Florence_315,IT,Florence,4,Business,IHG,95,105,1976,2002.0,0.682,287.13,195.81,6789.7,0.22,7.1,3.6,595
+HTL_0793,Hotel_Florence_793,italy,Florence,3 star,Chain - International,Marriott,112,101,1973,2021.0,0.901,172.43,155.37,6351.5,0.123,8.7,3.9,285
+HTL_0585,Hotel_Rotterdam_585,NL,Rotterdam,3,Independent,,111,110,1972,2002.0,0.459,96.88,44.46,1801.5,-0.122,6.9,3.5,164
+HTL_0003,Hotel_Lyon_3,FRANCE,Lyon,3,Independent,,58,50,2006,2012.0,0.751,207.95,156.17,3306.2,0.113,8.3,4.0,310
+HTL_0713,Hotel_Marseille_713,France,Marseille,4,Boutique,,33,35,1967,2019.0,0.771,312.69,241.19,2905.2,0.167,9.5,3.8,77
+HTL_0761,Hotel_Bordeaux_761,FR,Bordeaux,3,Business,,59,48,1975,2001.0,0.824,165.37,136.19,2932.8,0.164,8.2,4.2,283
+HTL_0582,Hotel_Bordeaux_582,France,Bordeaux,1,Business,,44,24,1990,2006.0,0.754,104.27,78.63,1262.8,0.027,,3.4,94
+HTL_0291,Hotel_Venice_291,italy,Venice,3,Independent,,52,34,2007,2018.0,0.586,129.31,75.75,,-0.025,7.2,2.8,199
+HTL_0212,Hotel_Malaga_212,ES,Malaga,5,Budget,,158,192,1975,2005.0,0.861,195.72,168.43,9713.3,0.21,,4.1,567
+HTL_0482,Hotel_Madrid_482,SPAIN,Madrid,5*,Boutique,,54,62,1965,2013.0,0.675,176.58,119.24,2350.2,0.15,9.1,3.9,333
+HTL_0769,Hotel_Paris_769,FRANCE,Paris,3,Chain - National,NH Hotels,97,82,1898,2009.0,0.643,233.81,150.28,5320.8,0.041,7.7,3.3,481
+HTL_0528,Hotel_Milan_528,Italy,Milan,2,Chain - International,Radisson,90,59,1970,2021.0,0.741,101.93,75.57,2482.4,0.004,5.9,3.4,435
+HTL_0240,Hotel_Lisbon_240,Portugal,Lisbon,3,Independent,NH Hotels,89,69,1964,2012.0,0.712,86.94,61.91,2011.2,0.042,8.6,3.8,226
+HTL_0690,Hotel_Naples_690,IT,Naples,3,Boutique,,49,38,2020,,0.767,170.97,131.09,2344.5,0.228,8.2,3.7,258
+HTL_0645,Hotel_Lisbon_645,PORTUGAL,Lisbon,3,Chain - National,AccorHotels,39,31,2007,2023.0,0.74,117.72,87.13,1240.3,-0.076,6.8,2.9,80
+HTL_0343,Hotel_Bordeaux_343,FR,Bordeaux,4,Independent,,82,81,1968,2019.0,0.816,274.99,224.36,6715.2,0.153,8.6,4.2,189
+HTL_0300,Hotel_Venice_300,Italia,Venice,3,Resort,,100,86,1946,2012.0,0.98,164.37,161.08,5879.5,-0.003,6.7,3.6,603
+HTL_0384,Hotel_Bilbao_384,spain,Bilbao,3,Business,,108,93,2009,2018.0,0.751,157.3,118.14,4657.1,0.061,8.9,4.4,522
+HTL_0080,Hotel_Milan_80,ITALY,Milan,2 star,Independent,,47,38,2018,,0.665,97.33,64.74,,0.019,,2.9,92
+HTL_0149,Hotel_Rome_149,Italy,Rome,2,Independent,,66,-10,1892,,0.664,142.09,94.37,2273.4,,5.8,2.7,343
+HTL_0364,Hotel_Athens_364,Greece,Athens,4,Chain - International,Meliá,98,107,2007,2009.0,0.857,181.63,155.6,5565.7,0.011,8.3,4.0,342
+HTL_0228,Hotel_Valencia_228,España,Valencia,3,Chain - International,Marriott,178,144,1990,2008.0,0.884,150.63,133.09,8646.6,0.221,7.6,3.7,862
+HTL_0676,Hotel_Frankfurt_676,Deutschland,Frankfurt,4,Resort,,250,235,2013,,0.921,185.85,171.1,15613.3,0.198,8.1,3.8,1864
+HTL_0333,Hotel_Barcelona_333,spain,Barcelona,four,Independent,Hilton,103,109,1859,2009.0,0.763,172.52,131.71,4951.6,0.056,8.7,4.0,199
+HTL_0199,Hotel_Malaga_199,ES,Malaga,5,Independent,,97,137,1860,,0.791,142.03,112.35,3977.7,0.216,6.8,3.4,652
+HTL_0762,Hotel_Innsbruck_762,AT,Innsbruck,2 star,Independent,,120,93,1988,2004.0,0.741,103.82,76.92,3369.0,0.114,6.3,3.1,620
+HTL_0465,Hotel_The Hague_465,Netherlands,The Hague,five,Business,,114,142,1970,2000.0,,304.99,126.98,5283.5,0.225,8.9,4.3,441
+HTL_0134,Hotel_Venice_134,ITALY,Venice,4,Chain - National,Meliá,85,99,1981,2005.0,0.873,242.38,211.48,6561.1,0.122,8.7,4.6,339
+HTL_0396,Hotel_Bilbao_396,SPAIN,Bilbao,3,Chain - International,Best Western,90,85,1964,2001.0,0.869,139.77,121.39,3987.8,0.203,4.9,1.7,360
+HTL_0347,Hotel_Madeira_347,PORTUGAL,Madeira,4,Resort,,145,159,2011,,0.797,181.83,144.94,7670.7,0.209,8.9,4.1,469
+HTL_0501,Hotel_Cologne_501,germany,Cologne,2,Resort,IHG,182,110,1996,2014.0,0.811,132.87,107.81,7162.0,0.172,6.1,3.1,856
+HTL_0056,Hotel_Paris_56,france,Paris,2,Chain - International,IHG,230,181,1974,2005.0,0.701,96.2,67.4,5658.4,0.211,6.8,3.1,488
+HTL_0634,Hotel_Malaga_634,ES,Malaga,2 star,Chain - National,Hyatt,93,62,1997,2000.0,0.734,105.78,77.6,2634.1,0.032,7.0,3.7,493
+HTL_0624,Hotel_Thessaloniki_624,Greece,Thessaloniki,2,Chain - National,Hilton,58,34,1986,,0.631,115.77,73.02,1545.9,0.124,6.6,3.3,145
+HTL_0531,Hotel_Venice_531,ITALY,Venice,3,Chain - National,NH Hotels,75,77,2006,2011.0,0.834,135.41,112.89,3090.3,0.136,6.6,3.6,452
+HTL_0571,Hotel_Berlin_571,germany,Berlin,3,Budget,,141,109,2011,,0.478,207.32,99.01,5095.8,0.161,6.6,3.6,396
+HTL_0389,Hotel_Faro_389,PORTUGAL,Faro,1,Independent,Hilton,148,86,2005,2021.0,0.547,43.47,23.76,,0.01,5.1,2.8,417
+HTL_0785,Hotel_Paris_785,FRANCE,Paris,4,Business,,111,123,1998,2008.0,0.797,224.82,179.1,7256.4,0.33,8.5,3.8,235
+HTL_0307,Hotel_The Hague_307,Netherlands,The Hague,three,Chain - International,Hilton,148,122,2007,2022.0,0.616,170.08,104.74,5657.8,0.131,8.7,4.0,706
+HTL_0478,Hotel_Milan_478,Italy,Milan,4 star,Boutique,,35,40,2022,,0.722,215.22,155.43,1985.6,0.22,8.4,3.7,82
+HTL_0061,Hotel_Madeira_61,PORTUGAL,Madeira,2,Resort,,719,597,1999,2007.0,0.616,80.32,49.47,8722.2,0.141,6.6,3.3,540
+HTL_0715,Hotel_Malaga_715,spain,Malaga,2,Boutique,,21,15,1984,2021.0,0.554,83.03,46.04,352.9,-0.052,5.4,2.7,75
+HTL_0545,Hotel_The Hague_545,NL,The Hague,3*,Independent,Hilton,59,57,1999,2019.0,0.628,168.8,106.06,2284.0,0.114,6.7,3.2,231
+HTL_0603,Hotel_Thessaloniki_603,Greece,Thessaloniki,3,Boutique,,42,37,2001,2012.0,0.775,111.92,86.72,1329.5,0.009,8.7,4.0,174
+HTL_0248,Hotel_Florence_248,Italia,Florence,3,Boutique,,19,18,1978,2021.0,0.959,126.57,121.37,841.7,0.132,7.2,3.3,101
+HTL_0457,Hotel_Rotterdam_457,NETHERLANDS,Rotterdam,3,Independent,Marriott,204,194,1985,2005.0,0.653,167.16,109.14,,0.124,7.9,3.8,839
+HTL_0548,Hotel_Frankfurt_548,Germany,Frankfurt,5,Boutique,,66,72,1908,2009.0,0.526,292.69,153.86,3706.5,0.186,8.5,3.6,254
+HTL_0619,Hotel_Amsterdam_619,NETHERLANDS,Amsterdam,4,Independent,,114,134,1991,2006.0,0.929,205.61,191.08,7950.8,0.15,8.2,3.3,1053
+HTL_0261,Hotel_Madrid_261,España,Madrid,3,Chain - National,Best Western,68,62,2004,,0.793,121.12,96.01,2383.0,0.032,6.1,3.1,267
+HTL_0211,Hotel_Faro_211,Portugal,Faro,5 star,Independent,,64,72,1948,,0.892,180.35,160.89,,0.204,9.6,4.4,174
+HTL_D0133,Hotel_Valencia_133,spain,Valencia,4,Chain - International,IHG,60,61,1963,2012.0,0.744,184.17,137.1,3002.6,-0.075,8.3,3.7,277
+HTL_0744,Hotel_Milan_744,IT,Milan,3,Chain - National,Marriott,53,54,2014,,0.615,154.87,95.28,1843.2,0.027,7.8,3.7,240
+HTL_0091,Hotel_Amsterdam_91,NETHERLANDS,Amsterdam,4,Chain - International,Meliá,76,84,1985,,0.804,203.66,163.77,4542.9,0.052,7.9,3.8,206
+HTL_0500,Hotel_Naples_500,ITALY,Naples,4 star,Business,,109,133,1979,2021.0,0.869,225.52,195.94,7795.5,0.214,8.2,4.4,938
+HTL_0182,Hotel_Madeira_182,PT,Madeira,4,Business,,102,102,1995,2020.0,0.724,156.45,113.32,4218.7,0.225,8.9,4.2,430
+HTL_0423,Hotel_Lyon_423,france,Lyon,three,Resort,Hilton,158,138,1987,2008.0,0.894,232.17,207.46,11964.4,0.1,4.0,1.8,650
+HTL_0378,Hotel_Berlin_378,Germany,Berlin,4,Independent,,65,70,1998,2007.0,0.573,240.86,138.04,,0.104,6.9,3.4,271
+HTL_0543,Hotel_Lisbon_543,PORTUGAL,Lisbon,4,Resort,,269,345,1970,,0.764,119.6,91.33,8966.8,0.041,8.4,3.5,2004
+HTL_0159,Hotel_Naples_159,italy,Naples,2,Boutique,,36,22,1870,2009.0,0.526,120.16,63.26,831.2,0.016,6.6,3.3,89
+HTL_0070,Hotel_Bilbao_70,ES,Bilbao,1,Resort,,86,30,2000,,0.674,77.34,52.16,1637.3,0.214,6.1,2.8,471
+HTL_0295,Hotel_Lyon_295,FR,Lyon,2*,Boutique,,62,39,1969,2002.0,0.709,132.05,93.56,2117.3,0.25,7.0,3.8,298
+HTL_0132,Hotel_Rome_132,Italia,Rome,3 star,Chain - National,Hilton,114,96,1998,2023.0,0.831,142.34,118.29,4921.9,-0.039,8.0,4.2,323
+HTL_0045,Hotel_Bordeaux_45,France,Bordeaux,three,Boutique,,39,43,2018,,0.761,201.78,153.64,2187.0,0.11,7.7,3.3,96
+HTL_0071,Hotel_Naples_71,IT,Naples,2,Chain - International,Best Western,55,44,2008,,0.793,86.6,68.66,1378.3,,,3.8,220
+HTL_0245,Hotel_Venice_245,IT,Venice,3,Resort,,201,190,2018,,0.727,140.76,102.34,7508.5,0.227,8.5,3.9,1230
+HTL_0369,Hotel_Florence_369,Italia,Florence,5,Independent,AccorHotels,142,163,1984,,0.684,231.55,158.44,8212.1,0.043,8.0,4.5,521
+HTL_0324,Hotel_Mykonos_324,Greece,Mykonos,2,Business,Hilton,120,67,1948,,0.581,59.56,34.6,1515.3,-0.049,8.3,3.8,379
+HTL_0260,Hotel_Nice_260,france,Nice,3,Independent,,86,80,1979,2018.0,0.951,124.19,118.1,,0.074,6.7,3.4,732
+HTL_0136,Hotel_Madeira_136,Portugal,Madeira,four,Chain - International,Best Western,96,113,1980,2019.0,0.98,199.72,195.72,6858.1,0.256,8.7,3.9,553
+HTL_0083,Hotel_Porto_83,PT,Porto,1,Chain - International,Marriott,37,20,2021,,0.635,63.77,40.5,547.0,0.079,4.5,2.5,139
+HTL_0166,Hotel_Barcelona_166,ES,Barcelona,3,Independent,Hilton,68,71,2003,2011.0,0.597,119.13,71.18,,0.216,7.1,3.1,140
+HTL_0165,Hotel_Bilbao_165,ES,Bilbao,4,Chain - International,Hyatt,74,74,1984,2003.0,0.711,225.45,160.34,4330.8,0.109,9.9,4.4,310
+HTL_0029,Hotel_Berlin_29,GERMANY,Berlin,3,Boutique,Hilton,45,41,2009,2011.0,0.867,95.24,82.55,1355.9,0.199,8.5,3.8,346
+HTL_0766,Hotel_Cologne_766,GERMANY,Cologne,4,Chain - National,AccorHotels,88,102,1876,2008.0,0.705,266.62,187.92,6036.0,0.146,7.3,3.4,275
+HTL_0194,Hotel_Munich_194,GERMANY,Munich,2,Chain - National,Hilton,75,68,1971,2018.0,0.502,125.84,63.12,1727.8,,7.6,4.1,372
+HTL_0697,Hotel_Hamburg_697,germany,Hamburg,3,Budget,,150,107,1987,2013.0,0.556,182.48,101.52,5558.0,0.15,9.8,4.0,219
+HTL_0536,Hotel_Lyon_536,France,Lyon,4 star,Boutique,,54,63,1968,2000.0,0.956,221.28,211.5,4168.6,0.032,10.0,4.5,506
+HTL_0660,Hotel_Madrid_660,spain,Madrid,4,Independent,,113,118,2017,,0.85,118.68,100.83,,0.234,7.7,3.7,244
+HTL_0137,Hotel_Berlin_137,GERMANY,Berlin,4,Independent,,70,68,1961,2008.0,0.98,224.92,220.43,,-0.019,7.9,3.6,395
+HTL_0679,Hotel_Venice_679,IT,Venice,4*,Independent,Hilton,69,80,1893,2021.0,0.692,183.2,126.81,,0.196,8.0,4.5,248
+HTL_0661,Hotel_Munich_661,GERMANY,Munich,3,Independent,,90,92,1990,2005.0,0.743,235.35,174.75,,,7.1,3.5,521
+HTL_0141,Hotel_Bordeaux_141,FR,Bordeaux,1,Budget,,168,73,1977,2005.0,0.541,94.78,51.25,3142.7,0.092,5.1,2.8,830
+HTL_0592,Hotel_Seville_592,ES,Seville,four,Independent,,219,190,1987,2023.0,0.736,143.15,105.31,8417.8,0.111,8.5,3.7,1271
+HTL_0007,Hotel_Amsterdam_7,NETHERLANDS,Amsterdam,five,Chain - International,Best Western,129,156,1986,2002.0,0.797,228.32,181.95,8566.9,0.262,10.0,4.9,959
+HTL_0540,Hotel_Bilbao_540,SPAIN,Bilbao,3,Independent,,74,63,2022,,0.748,176.66,132.1,,0.108,6.9,3.2,258
+HTL_0570,Hotel_Madrid_570,Spain,Madrid,5,Boutique,Hilton,71,91,2018,,0.96,192.79,185.04,4795.4,0.049,9.7,4.7,646
+HTL_0236,Hotel_Berlin_236,GERMANY,Berlin,two,Independent,Marriott,43,33,1964,,0.664,173.41,115.22,1808.5,0.045,6.2,3.1,118
+HTL_0665,Hotel_Berlin_665,germany,Berlin,1,Independent,,90,40,1997,,0.573,111.96,64.2,2108.8,0.016,5.6,3.1,417
+HTL_0074,Hotel_Lyon_74,france,Lyon,3,Chain - International,NH Hotels,46,44,1945,2023.0,0.638,165.02,105.24,1766.9,0.218,7.7,3.6,230
+HTL_0683,Hotel_Rome_683,Italia,Rome,four,Business,,129,141,1978,2010.0,0.735,171.37,125.96,5930.9,-0.077,8.2,3.5,293
+HTL_0773,Hotel_Porto_773,PORTUGAL,Porto,3,Independent,,121,101,1963,2003.0,0.62,125.28,77.67,3430.4,,6.2,2.8,409
+HTL_0755,Hotel_Naples_755,ITALY,Naples,4,Independent,,85,86,1986,2007.0,0.877,180.89,158.58,4920.1,0.095,7.5,3.4,323
+HTL_0146,Hotel_Nice_146,France,Nice,3*,Independent,,95,73,2014,,0.706,199.0,140.52,4872.5,,7.9,4.2,527
+HTL_0580,Hotel_Munich_580,Deutschland,Munich,4,Business,Hilton,143,146,2019,,0.817,269.54,220.19,11492.8,0.153,7.5,3.6,881
+HTL_0235,Hotel_Cologne_235,DE,Cologne,1,Chain - International,Local Chain,34,19,1986,2017.0,0.81,77.7,62.92,780.8,0.04,5.2,3.2,123
+HTL_0221,Hotel_Lyon_221,France,Lyon,4,Resort,,175,189,1962,2005.0,0.896,222.43,199.27,12728.5,0.012,9.3,4.2,993
+HTL_D0129,Hotel_Rotterdam_129,Holland,Rotterdam,4,Independent,,194,220,1968,2008.0,0.664,204.3,135.68,9607.5,0.023,7.4,3.9,675
+HTL_0330,Hotel_Marseille_330,FRANCE,Marseille,3,Budget,,315,341,1978,2020.0,0.709,244.6,173.43,19940.3,0.212,7.4,3.4,1759
+HTL_0133,Hotel_Valencia_133,spain,Valencia,4,Chain - International,IHG,60,61,1963,2012.0,0.744,184.17,137.1,3002.6,-0.075,8.3,3.7,277
+HTL_0753,Hotel_Rotterdam_753,Holland,Rotterdam,2,Chain - National,Marriott,56,46,1970,2005.0,0.717,127.01,91.08,1861.7,0.152,7.6,4.1,302
+HTL_0429,Hotel_Rome_429,ITALY,Rome,4,Resort,IHG,323,294,2008,2013.0,0.693,236.88,164.2,19358.9,0.142,9.2,4.3,1388
+HTL_0452,Hotel_Berlin_452,GERMANY,Berlin,2,Chain - National,Hilton,53,36,2012,,0.713,115.79,82.58,1597.5,0.224,8.3,3.8,160
+HTL_0774,Hotel_Rome_774,Italy,Rome,4,Chain - National,Best Western,79,89,2019,,0.859,252.15,216.69,6248.2,0.235,8.6,4.1,299
+HTL_0441,Hotel_Venice_441,ITALY,Venice,2,Chain - International,Hyatt,43,24,1979,2011.0,0.91,128.43,116.87,1834.3,0.122,7.1,3.4,111
+HTL_0042,Hotel_Madrid_42,Spain,Madrid,3,Chain - International,AccorHotels,90,97,2009,2019.0,0.708,108.35,76.73,2520.4,0.058,8.6,4.0,422
+HTL_0527,Hotel_Barcelona_527,España,Barcelona,3*,Chain - National,Meliá,103,75,1919,2019.0,0.741,145.82,108.06,4062.6,0.152,6.8,3.1,759
+HTL_0109,Hotel_Faro_109,PORTUGAL,Faro,4,Business,,172,177,2001,2014.0,0.929,159.67,148.38,9315.2,0.245,8.4,4.2,1498
+HTL_0358,Hotel_Florence_358,Italia,Florence,2,Chain - National,Hyatt,77,43,1960,2009.0,0.651,94.96,61.83,1737.6,0.072,7.1,3.5,315
+HTL_0057,Hotel_Salzburg_57,AUSTRIA,Salzburg,4 star,Chain - National,Local Chain,76,87,1978,2019.0,0.677,289.92,196.42,5448.6,0.113,7.7,3.6,484
+HTL_0410,Hotel_Barcelona_410,spain,Barcelona,4,Boutique,,41,44,1967,2009.0,0.827,165.97,137.33,2055.2,0.182,9.2,4.7,104
+HTL_0292,Hotel_Porto_292,PT,Porto,3,Resort,Marriott,299,258,1968,2011.0,0.806,128.06,103.22,11264.4,0.302,9.6,4.4,710
+HTL_0425,Hotel_Paris_425,FR,Paris,4*,Independent,,62,64,2013,,0.766,269.74,206.58,4674.9,-0.134,9.0,3.4,364
+HTL_0025,Hotel_Valencia_25,España,Valencia,3,Independent,,143,100,1985,2004.0,0.841,124.17,104.48,,0.224,6.7,3.1,779
+HTL_0736,Hotel_Venice_736,Italy,Venice,2,Resort,Marriott,80,63,1982,2003.0,0.924,151.94,140.35,4098.3,0.001,7.9,4.2,436
+HTL_0418,Hotel_Thessaloniki_418,GREECE,Thessaloniki,3,Chain - National,Local Chain,71,43,2013,,0.588,113.57,66.78,1730.6,0.137,,3.4,366
+HTL_0599,Hotel_Cologne_599,DE,Cologne,5,Business,Marriott,92,116,1992,2015.0,0.893,191.92,171.41,5756.0,0.155,9.1,4.3,794
+HTL_0052,Hotel_Venice_52,ITALY,Venice,3,Boutique,,48,44,2006,2018.0,0.706,94.33,66.62,1167.2,0.25,7.9,3.5,272
+HTL_0345,Hotel_Marseille_345,FRANCE,Marseille,5 star,Independent,AccorHotels,152,215,1996,2013.0,0.76,170.04,129.28,7172.4,0.118,,3.1,628
+HTL_0758,Hotel_Paris_758,FR,Paris,1,Chain - International,Meliá,95,57,2015,,0.674,98.41,66.37,2301.5,-0.008,7.3,3.8,488
+HTL_0265,Hotel_Florence_265,IT,Florence,3,Chain - International,AccorHotels,86,90,1968,2014.0,0.797,138.07,110.0,3453.0,,8.2,4.1,627
+HTL_0791,Hotel_Frankfurt_791,Deutschland,Frankfurt,2,Chain - National,Best Western,93,56,1863,2019.0,0.618,110.95,68.52,2326.0,0.128,8.1,3.6,249
+HTL_0666,Hotel_Naples_666,IT,Naples,3,Boutique,,28,20,1911,2016.0,0.886,149.29,132.35,1352.6,,7.1,3.6,234
+HTL_0657,Hotel_Thessaloniki_657,GR,Thessaloniki,4,Resort,NH Hotels,180,189,1971,2006.0,0.98,181.46,177.83,11683.7,0.183,8.2,4.3,1639
+HTL_0297,Hotel_Faro_297,Portugal,Faro,4,Chain - International,Marriott,43,44,1907,2007.0,0.971,137.21,133.24,2091.3,0.106,9.0,4.0,313
+HTL_0019,Hotel_Florence_19,Italia,Florence,5,Resort,,213,276,1978,2003.0,0.925,300.71,278.28,21635.0,-0.023,7.4,3.4,1867
+HTL_0771,Hotel_Salzburg_771,Austria,Salzburg,2,Business,,117,89,2013,,0.765,141.09,107.91,4608.2,0.135,7.2,3.4,681
+HTL_0533,Hotel_Nice_533,France,Nice,4,Independent,,83,92,2001,2005.0,0.705,320.69,226.06,,0.16,8.9,4.4,487
+HTL_0084,Hotel_Innsbruck_84,AT,Innsbruck,4,Boutique,Marriott,102,122,1875,2014.0,0.813,275.23,223.88,8335.1,0.11,7.1,3.4,721
+HTL_0062,Hotel_Naples_62,italy,Naples,3 star,Chain - National,Marriott,150,101,2010,,0.718,199.59,143.31,7846.1,0.072,9.1,4.5,444
+HTL_0522,Hotel_Paris_522,france,Paris,4,Chain - International,Radisson,113,146,2004,2008.0,0.903,241.32,217.89,8986.9,0.099,7.2,5.147235658340301,749
+HTL_0303,Hotel_Berlin_303,germany,Berlin,4,Chain - International,Meliá,174,200,2002,2005.0,0.792,292.76,231.76,14718.8,0.081,7.0,3.5,1257
+HTL_0394,Hotel_Barcelona_394,ES,Barcelona,3,Resort,NH Hotels,133,100,1973,2015.0,0.858,138.42,118.78,5766.4,0.141,7.0,2.6,394
+HTL_0694,Hotel_Madrid_694,España,Madrid,3 star,Chain - International,Hilton,194,178,2003,2021.0,0.757,135.53,102.55,7261.8,0.103,6.5,2.8,653
+HTL_0183,Hotel_Florence_183,italy,Florence,5,Chain - International,Hyatt,119,146,1962,2009.0,0.831,279.48,232.27,10088.8,0.134,7.9,3.7,378
+HTL_0430,Hotel_Mykonos_430,GREECE,Mykonos,3,Independent,,116,99,1872,2015.0,0.98,88.1,86.34,,0.086,7.9,4.0,617
+HTL_0517,Hotel_Marseille_517,france,Marseille,4*,Boutique,,47,53,1980,2004.0,0.662,243.5,161.19,2765.2,0.185,8.9,3.8,110
+HTL_0224,Hotel_Thessaloniki_224,GREECE,Thessaloniki,3 star,Resort,,169,155,1991,2020.0,0.772,164.77,127.2,7846.2,0.083,7.7,3.5,815
+HTL_0627,Hotel_Berlin_627,Deutschland,Berlin,4,Boutique,,23,23,1961,2009.0,0.638,258.6,164.89,1384.3,0.185,8.0,4.0,65
+HTL_0483,Hotel_Nice_483,FRANCE,Nice,3,Chain - National,Best Western,56,49,1968,,0.758,187.41,142.05,2903.4,0.023,7.2,3.6,416
+HTL_0332,Hotel_Barcelona_332,SPAIN,Barcelona,3,Chain - National,Marriott,109,105,1963,2011.0,0.853,112.12,95.59,3803.0,-0.071,9.0,4.0,863
+HTL_0434,Hotel_Rome_434,ITALY,Rome,5,Boutique,IHG,61,72,1988,2018.0,0.859,328.54,282.1,6281.0,0.008,8.7,3.7,148
+HTL_0458,Hotel_Bordeaux_458,FRANCE,Bordeaux,2,Independent,,108,86,1980,2001.0,0.689,91.14,62.81,2475.8,0.014,7.7,3.5,480
+HTL_0560,Hotel_Salzburg_560,AUSTRIA,Salzburg,3*,Chain - National,Marriott,97,87,2009,2011.0,0.823,170.13,139.98,4955.8,0.048,7.8,3.9,740
+HTL_0177,Hotel_Innsbruck_177,AUSTRIA,Innsbruck,4,Boutique,,30,34,1994,2008.0,0.769,160.18,123.15,1348.5,0.208,8.4,3.7,65
+HTL_0756,Hotel_Naples_756,IT,Naples,4,Independent,,122,121,1962,2009.0,0.653,223.07,145.64,6485.3,0.039,6.8,2.9,626
+HTL_0651,Hotel_Bilbao_651,spain,Bilbao,3,Resort,,125,121,1963,2011.0,0.98,88.85,87.07,3972.7,0.08,7.1,3.8,528
+HTL_0164,Hotel_Lyon_164,France,Lyon,3*,Business,,51,31,1964,2003.0,0.721,148.96,107.47,2000.5,0.243,6.0,2.7,174
+HTL_0249,Hotel_Marseille_249,FRANCE,Marseille,5 star,Boutique,,47,62,1977,2009.0,0.924,227.01,209.71,3597.6,0.242,8.5,3.6,194
+HTL_0534,Hotel_Valencia_534,Spain,Valencia,1,Business,,79,28,1963,2010.0,0.729,72.13,52.6,1516.8,0.045,6.7,2.9,476
+HTL_0731,Hotel_Paris_731,FR,Paris,three,Resort,,255,218,2001,2023.0,0.91,185.37,168.76,15706.9,0.088,6.8,3.2,659
+HTL_0075,Hotel_Faro_75,PORTUGAL,Faro,5*,Independent,,169,198,1961,2000.0,0.838,167.11,139.99,8635.1,0.147,8.4,4.7,1328
+HTL_0487,Hotel_Florence_487,Italia,Florence,four,Independent,,116,120,1980,2009.0,0.804,165.71,133.31,5644.3,0.065,9.5,4.9,642
+HTL_0621,Hotel_Frankfurt_621,Deutschland,Frankfurt,five,Chain - International,Meliá,96,114,1967,2015.0,0.844,293.27,247.61,8676.3,0.181,9.6,4.0,224
+HTL_0105,Hotel_Naples_105,Italia,Naples,4,Budget,,129,162,1997,,0.714,276.59,197.41,9294.9,,,4.3,386
+HTL_0115,Hotel_Venice_115,Italy,Venice,4,Chain - International,Hyatt,129,161,1982,2014.0,0.98,163.49,160.22,7544.1,0.116,8.9,3.8,555
+HTL_0312,Hotel_Cologne_312,Deutschland,Cologne,4,Independent,,88,92,1996,2014.0,0.629,233.54,146.97,4720.8,-0.022,8.6,4.2,204
+HTL_0093,Hotel_Bilbao_93,spain,Bilbao,4,Chain - National,NH Hotels,75,86,1968,2002.0,0.829,193.12,160.12,4383.3,,7.3,4.0,205
+HTL_0426,Hotel_Vienna_426,AUSTRIA,Vienna,3,Boutique,,66,70,1993,2008.0,0.828,160.4,132.77,3198.5,0.041,7.0,3.3,297
+HTL_0090,Hotel_Innsbruck_90,Austria,Innsbruck,3,Independent,NH Hotels,79,71,1983,2010.0,0.787,171.97,135.26,,0.112,8.7,4.1,279
+HTL_0445,Hotel_Valencia_445,Spain,Valencia,3,Boutique,,45,40,1962,2003.0,0.456,126.7,57.76,948.7,0.073,6.7,3.2,103
+HTL_0759,Hotel_Milan_759,IT,Milan,3,Chain - National,NH Hotels,105,109,1916,2015.0,0.651,229.45,149.43,5726.9,0.101,7.1,4.0,309
+HTL_0768,Hotel_Faro_768,PORTUGAL,Faro,1,Chain - National,Radisson,33,15,2022,,0.604,36.19,21.85,263.2,0.016,6.1,3.1,148
+HTL_0779,Hotel_Lyon_779,FR,Lyon,3,Chain - National,Hilton,196,187,2007,2007.0,0.737,189.94,139.94,10011.6,0.088,9.0,4.1,1256
+HTL_0513,Hotel_Thessaloniki_513,Greece,Thessaloniki,2 star,Independent,,134,89,1961,2008.0,0.978,89.88,87.88,,0.024,8.5,4.2,1168
+HTL_0595,Hotel_Santorini_595,GREECE,Santorini,4,Chain - International,Radisson,72,91,1965,2000.0,0.818,200.92,164.45,4321.8,0.074,9.8,4.9,555
+HTL_0012,Hotel_Innsbruck_12,AUSTRIA,Innsbruck,3,Chain - International,Marriott,73,68,1945,2000.0,0.799,203.9,162.99,4342.8,0.17,9.4,4.2,286
+HTL_0763,Hotel_Marseille_763,FR,Marseille,5,Chain - National,IHG,129,180,2007,,0.702,306.77,215.36,10140.2,0.118,10.0,4.8,423
+HTL_0044,Hotel_Madrid_44,ES,Madrid,3 star,Chain - National,NH Hotels,90,93,1968,2013.0,0.666,146.64,97.66,3208.1,0.123,7.9,3.9,573
+HTL_0043,Hotel_Bilbao_43,Spain,Bilbao,4,Chain - International,Local Chain,92,112,1960,2020.0,0.837,93.85,78.57,2638.5,0.098,7.6,3.1,237
+HTL_0168,Hotel_Barcelona_168,España,Barcelona,4*,Boutique,Hilton,25,29,2010,,0.713,192.83,137.41,1253.9,,7.1,3.2,120
+HTL_0724,Hotel_Rome_724,IT,Rome,3,Resort,,249,237,1987,2022.0,0.979,156.7,153.4,13941.8,-0.005,7.7,3.6,1174
+HTL_0491,Hotel_Berlin_491,GERMANY,Berlin,4,Independent,,91,108,2010,,0.657,208.09,136.66,4539.3,,9.4,4.7,262
+HTL_0632,Hotel_Barcelona_632,SPAIN,Barcelona,3*,Chain - International,Marriott,73,67,2007,2017.0,0.848,108.03,91.64,2441.7,0.109,7.1,3.2,459
+HTL_0427,Hotel_Berlin_427,Deutschland,Berlin,2,Chain - International,IHG,35,24,2007,2009.0,0.779,138.78,108.12,1381.2,,6.1,3.2,248
+HTL_0179,Hotel_Porto_179,PORTUGAL,Porto,4,Business,,63,81,1976,2004.0,0.736,185.67,136.7,3143.3,0.147,8.9,4.1,367
+HTL_0546,Hotel_Milan_546,ITALY,Milan,4,Chain - International,AccorHotels,101,114,2022,,0.98,276.12,270.59,9975.5,0.111,6.0,3.3,565
+HTL_0555,Hotel_Venice_555,ITALY,Venice,3*,Chain - International,NH Hotels,105,98,1999,2005.0,0.791,188.01,148.75,5700.7,0.21,6.6,3.1,410
+HTL_0178,Hotel_Santorini_178,GREECE,Santorini,4,Chain - National,Hyatt,119,130,1985,2015.0,0.844,150.89,127.39,5533.1,0.11,7.1,3.4,695
+HTL_0569,Hotel_Barcelona_569,ES,Barcelona,2,Independent,,48,38,1973,2015.0,0.743,79.39,59.0,1033.6,0.168,6.7,3.3,118
+HTL_0576,Hotel_Venice_576,italy,Venice,5,Independent,,138,202,1971,2017.0,0.98,280.32,274.72,13837.6,0.227,10.0,4.7,541
+HTL_0258,Hotel_Madrid_258,SPAIN,Madrid,5,Chain - National,Marriott,175,223,1997,,0.951,195.58,185.96,11878.1,0.241,9.1,4.4,1513
+HTL_0729,Hotel_Frankfurt_729,Germany,Frankfurt,4,Independent,,170,177,2022,,0.799,185.45,148.15,9192.6,-0.129,5.8,3.0,807
+HTL_0336,Hotel_Naples_336,IT,Naples,4,Chain - National,Local Chain,111,125,1965,,1.1850206926939504,212.42,184.27,7465.7,0.161,8.4,3.9,261
+HTL_0488,Hotel_Valencia_488,ES,Valencia,2,Boutique,,17,12,1982,,0.775,116.44,90.24,559.9,0.053,6.5,3.3,76
+HTL_0016,Hotel_Nice_16,FR,Nice,5,Chain - International,Marriott,69,97,2007,2022.0,0.962,254.61,244.86,6166.7,0.188,10.0,4.6,543
+HTL_0004,Hotel_Berlin_4,germany,Berlin,3,Chain - International,Meliá,62,56,2003,2004.0,0.812,203.26,164.95,3732.8,0.112,7.8,3.4,384
+HTL_0659,Hotel_Vienna_659,AT,Vienna,4,Independent,,52,50,2015,,0.636,166.85,106.16,,0.226,8.2,3.8,131
+HTL_0257,Hotel_Munich_257,GERMANY,Munich,5,Chain - National,Radisson,130,177,2005,2012.0,0.964,279.49,269.4,12783.0,0.25,,4.8,327
+HTL_0479,Hotel_Madrid_479,SPAIN,Madrid,5,Boutique,,56,75,1978,2017.0,0.829,198.14,164.33,3358.9,0.139,7.7,3.6,389
+HTL_0405,Hotel_Athens_405,GREECE,Athens,2,Boutique,,72,40,2000,2013.0,0.647,119.96,77.62,2039.8,0.025,4.7,2.1,453
+HTL_0352,Hotel_Lyon_352,FRANCE,Lyon,four,Resort,,338,286,1996,2009.0,0.873,240.66,210.16,25927.8,0.008,6.9,3.3,2881
+HTL_0494,Hotel_Amsterdam_494,NL,Amsterdam,4,Boutique,Marriott,36,39,1994,2017.0,0.854,188.81,161.15,2117.5,-0.072,8.1,4.2,215
+HTL_0432,Hotel_Vienna_432,AUSTRIA,Vienna,2*,Chain - International,AccorHotels,97,74,1866,2004.0,0.792,128.18,101.55,3595.4,0.095,4.9,3.1,683
+HTL_0629,Hotel_Seville_629,spain,Seville,3,Chain - National,Best Western,82,64,1988,,0.848,160.35,135.94,4068.7,0.237,8.3,4.0,296
+HTL_0357,Hotel_Valencia_357,SPAIN,Valencia,3,Chain - International,Meliá,38,32,1979,2014.0,0.8,109.73,87.75,1217.1,0.312,7.3,3.2,260
+HTL_0325,Hotel_Lisbon_325,PORTUGAL,Lisbon,4,Independent,,96,109,1986,2014.0,0.741,161.0,119.22,,0.126,8.7,4.0,692
+HTL_0638,Hotel_Berlin_638,DE,Berlin,1 star,Boutique,,17,10,2006,2017.0,0.376,,24.31,150.8,-0.032,5.1,2.8,44
+HTL_0010,Hotel_Cologne_10,Germany,Cologne,five,Chain - International,Local Chain,113,144,1986,2019.0,0.769,382.33,294.02,12126.7,0.137,10.0,4.5,599
+HTL_0250,Hotel_Rotterdam_250,Holland,Rotterdam,3*,Budget,,138,138,1986,2016.0,0.546,180.27,98.41,4957.1,,6.7,3.3,513
+HTL_0023,Hotel_Valencia_23,Spain,Valencia,4,Boutique,,50,47,1936,2021.0,0.689,167.79,115.65,2110.6,0.098,7.0,3.3,131
+HTL_0222,Hotel_Hamburg_222,Deutschland,Hamburg,4,Business,,58,64,2005,2017.0,0.956,241.41,230.77,4885.3,0.189,8.6,3.8,526
+HTL_0782,Hotel_Munich_782,Deutschland,Munich,4,Boutique,,70,66,1999,,0.899,182.52,164.06,4191.8,0.165,9.6,4.6,350
+HTL_0711,Hotel_Milan_711,Italy,Milan,4,Chain - International,NH Hotels,158,187,1996,2001.0,0.917,225.03,206.25,11894.2,0.016,8.0,3.5,936
+HTL_D0204,Hotel_Seville_204,SPAIN,Seville,3 star,Business,,65,63,1987,,0.722,94.98,68.53,1625.8,0.086,6.1,3.3,129
+HTL_0544,Hotel_Malaga_544,Spain,Malaga,3,Chain - International,Best Western,107,86,2002,2007.0,0.924,89.54,82.7,3229.7,0.247,7.4,3.3,322
+HTL_0341,Hotel_Amsterdam_341,NL,Amsterdam,3,Chain - International,Hilton,75,76,1962,2002.0,0.752,162.98,122.52,3353.9,0.028,8.0,3.3,361
+HTL_0691,Hotel_Berlin_691,Germany,Berlin,4,Independent,,72,90,1967,2022.0,0.783,205.59,160.98,4230.7,0.15,9.2,4.4,288
+HTL_0204,Hotel_Seville_204,SPAIN,Seville,3 star,Business,,65,61,1987,,0.722,94.98,68.53,1625.8,0.086,6.1,3.3,129
+HTL_0238,Hotel_Naples_238,IT,Naples,4,Chain - International,Best Western,53,65,1994,2004.0,0.799,236.46,188.92,3654.6,-0.09,8.4,3.8,147
+HTL_0094,Hotel_Vienna_94,AUSTRIA,Vienna,3 star,Independent,,96,77,1965,2004.0,0.555,142.41,79.04,2769.7,0.272,,3.7,250
+HTL_0587,Hotel_Santorini_587,GR,Santorini,3,Boutique,,10,8,2012,,0.941,144.88,136.3,497.5,,7.5,3.5,27
+HTL_0376,Hotel_Thessaloniki_376,Greece,Thessaloniki,4,Resort,,220,243,1975,2014.0,0.667,135.0,90.02,7228.6,0.184,9.4,4.6,1316
+HTL_0524,Hotel_Hamburg_524,Germany,Hamburg,4,Budget,,137,124,2008,2023.0,0.697,280.52,195.49,9775.3,0.294,,3.8,271
+HTL_0285,Hotel_Porto_285,PORTUGAL,Porto,3,Chain - International,Hilton,98,86,1967,2011.0,0.541,129.14,69.93,2501.3,0.139,7.2,3.7,265
+HTL_0185,Hotel_Rome_185,Italy,Rome,1,Chain - International,NH Hotels,66,27,1917,2007.0,0.831,72.23,60.03,1446.1,0.152,6.5,3.2,202
+HTL_0669,Hotel_Frankfurt_669,GERMANY,Frankfurt,3,Chain - International,Radisson,63,61,1942,2020.0,0.885,139.65,123.62,2842.7,0.206,4.1,1.8,283
+HTL_0644,Hotel_Paris_644,france,Paris,1 star,Boutique,,10,5,1965,2005.0,0.723,,59.77,218.2,,,3.1,67
+HTL_0154,Hotel_Salzburg_154,AUSTRIA,Salzburg,5,Chain - National,NH Hotels,161,207,1966,2022.0,0.793,260.44,206.58,12139.6,0.172,9.3,4.4,1150
+HTL_0076,Hotel_Santorini_76,GR,Santorini,4,Independent,NH Hotels,54,68,2011,,0.722,180.29,130.2,,0.057,,3.9,292
+HTL_0468,Hotel_Madrid_468,ES,Madrid,4,Chain - National,NH Hotels,91,91,2012,,0.73,104.57,76.32,2534.9,,5.4,2.9,403
+HTL_0515,Hotel_Porto_515,Portugal,Porto,4*,Chain - National,Local Chain,91,90,2012,,0.739,164.84,121.83,4046.5,0.079,7.5,3.7,394
+HTL_0278,Hotel_Lyon_278,FR,Lyon,3 star,Budget,Hilton,171,169,1986,2019.0,0.694,221.74,153.98,9610.6,-0.04,6.4,3.2,783
+HTL_0069,Hotel_Madrid_69,ES,Madrid,5 star,Chain - International,Hilton,161,210,2013,,0.894,232.39,207.74,12208.0,0.2,8.6,3.8,637
+HTL_0529,Hotel_Venice_529,italy,Venice,4,Independent,,110,118,1979,,0.528,228.08,120.52,,0.139,7.7,3.9,454
+HTL_0189,Hotel_Porto_189,PT,Porto,3,Chain - National,Hyatt,73,67,1976,2011.0,0.698,116.68,81.46,2170.6,0.036,6.8,3.4,452
+HTL_0272,Hotel_Athens_272,Greece,Athens,1,Independent,,89,24,2021,,0.74,59.15,43.76,1421.4,0.105,6.0,3.1,597
+HTL_0520,Hotel_Bilbao_520,ES,Bilbao,4,Independent,,229,268,1861,2006.0,0.903,147.39,133.06,11121.5,0.177,8.2,4.0,1927
+HTL_0237,Hotel_Frankfurt_237,Deutschland,Frankfurt,3,Chain - International,Best Western,149,147,2001,2020.0,0.685,151.63,103.79,5644.9,0.071,6.1,3.4,404
+HTL_0089,Hotel_Venice_89,Italy,Venice,4,Independent,,70,71,1914,2020.0,0.846,251.72,213.02,5442.6,0.2,9.5,5.203703239178637,443
+HTL_0737,Hotel_Lyon_737,FRANCE,Lyon,3,Independent,NH Hotels,47,38,2020,,0.664,155.96,103.58,,0.189,8.7,4.4,283
+HTL_0118,Hotel_Bilbao_118,SPAIN,Bilbao,2,Business,,68,47,2008,2010.0,0.754,96.27,72.6,1802.0,-0.042,4.7,2.2,296
+HTL_0126,Hotel_Hamburg_126,GERMANY,Hamburg,5,Independent,,121,162,1974,2003.0,0.765,198.76,152.01,,0.147,9.2,4.3,794
+HTL_0680,Hotel_Seville_680,spain,Seville,3,Chain - International,Local Chain,61,49,1986,2011.0,0.84,167.46,140.59,3130.1,0.113,8.7,3.8,134
+HTL_0290,Hotel_Madrid_290,ES,Madrid,3,Budget,,217,227,1997,2009.0,0.666,98.11,65.37,5177.8,,6.8,2.9,886
+HTL_0239,Hotel_Naples_239,italy,Naples,four,Boutique,,35,39,1964,2020.0,0.828,268.93,222.68,2844.7,0.162,8.5,3.5,275
+HTL_0001,Hotel_Lyon_1,France,Lyon,4,Chain - International,Best Western,87,104,1981,2020.0,0.98,278.54,272.97,8668.3,0.241,8.6,4.1,608
+HTL_D0344,Hotel_Hamburg_344,germany,Hamburg,3,Independent,,110,101,2011,,0.783,156.66,122.73,4927.5,0.109,6.4,2.8,432
+HTL_0399,Hotel_Nice_399,France,Nice,5,Chain - National,Radisson,153,201,2005,2022.0,0.727,336.49,244.62,13660.6,0.109,8.6,4.5,339
+HTL_0721,Hotel_Nice_721,FR,Nice,3,Chain - National,Radisson,54,39,2021,,0.881,162.4,143.03,2819.2,0.092,6.1,3.1,242
+HTL_0508,Hotel_Barcelona_508,España,Barcelona,3,Chain - International,Radisson,106,102,1995,2004.0,0.944,85.71,80.9,3129.8,0.01,8.8,4.2,461
+HTL_0279,Hotel_The Hague_279,Netherlands,The Hague,4,Independent,,83,81,1970,2020.0,0.672,232.17,156.08,4728.5,0.094,8.1,3.8,238
+HTL_0693,Hotel_Porto_693,PORTUGAL,Porto,3 star,Budget,,129,126,1927,,0.472,77.57,36.62,1724.1,,6.8,3.6,317
+HTL_0117,Hotel_Seville_117,Spain,Seville,4,Chain - National,Marriott,138,149,2018,,0.846,190.25,160.96,8107.3,0.08,9.6,3.8,857
+HTL_0229,Hotel_Berlin_229,GERMANY,Berlin,5,Independent,,131,160,2017,,0.694,272.45,189.1,,0.188,10.0,4.4,691
+HTL_0583,Hotel_Barcelona_583,SPAIN,Barcelona,5,Boutique,Hilton,73,91,2006,,0.797,203.56,162.33,4325.3,0.135,8.9,3.8,293
+HTL_0435,Hotel_Naples_435,Italy,Naples,2,Independent,,33,23,2004,2005.0,0.596,111.54,66.44,800.2,,6.3,3.0,129
+HTL_0449,Hotel_Milan_449,IT,Milan,3,Chain - International,Hilton,151,123,1929,2011.0,0.805,157.56,126.9,6994.1,,7.9,3.9,1158
+HTL_0275,Hotel_Hamburg_275,GERMANY,Hamburg,four,Independent,,104,125,2021,,0.671,234.58,157.45,5976.7,0.14,6.5,3.3,483
+HTL_0319,Hotel_Madeira_319,PT,Madeira,3 star,Resort,,202,159,1991,2009.0,0.746,116.39,86.85,6403.4,0.144,6.8,3.3,1484
+HTL_0781,Hotel_Valencia_781,SPAIN,Valencia,5,Business,,146,196,1989,2009.0,0.757,195.21,147.83,7877.6,0.186,9.6,4.6,1028
+HTL_0145,Hotel_Athens_145,Greece,Athens,4,Chain - International,NH Hotels,97,98,1998,2004.0,0.708,125.19,88.63,3138.1,0.027,6.7,2.8,485
+HTL_0594,Hotel_Madrid_594,SPAIN,Madrid,three,Independent,,155,115,1963,2000.0,0.698,161.85,112.89,6386.8,0.154,7.9,3.7,908
+HTL_0523,Hotel_Salzburg_523,AT,Salzburg,4,Independent,,116,151,1996,2022.0,0.688,147.04,101.12,,0.024,10.0,5.0,534
+HTL_0751,Hotel_Thessaloniki_751,GR,Thessaloniki,one,Chain - National,Meliá,52,35,1966,2003.0,0.682,64.6,44.04,835.8,,7.0,3.6,282
+HTL_0602,Hotel_Madrid_602,spain,Madrid,4,Resort,,203,234,2014,,0.745,206.92,154.1,11417.8,0.199,8.5,4.0,760
+HTL_0370,Hotel_Paris_370,France,Paris,3,Independent,,119,90,1965,2008.0,0.532,165.14,87.84,3815.4,0.045,6.3,3.2,542
+HTL_0269,Hotel_Rome_269,italy,Rome,3,Resort,,169,148,1977,2018.0,0.948,178.21,168.9,10418.6,0.179,7.6,4.2,846
+HTL_0584,Hotel_Valencia_584,España,Valencia,two,Chain - National,Radisson,78,53,1906,,0.661,126.27,83.43,2375.2,0.098,6.1,2.7,287
+HTL_0308,Hotel_Nice_308,France,Nice,2,Chain - International,Marriott,100,56,2020,,0.875,134.79,117.89,4302.8,-0.055,6.3,2.8,779
+HTL_0311,Hotel_Bordeaux_311,france,Bordeaux,4,Business,,135,152,1998,2012.0,0.757,230.02,174.14,8580.8,0.17,9.7,4.6,391
+HTL_0466,Hotel_Madeira_466,PT,Madeira,3,Budget,,130,91,1962,2011.0,0.774,145.76,112.77,5351.1,0.15,5.7,3.2,294
+HTL_0047,Hotel_Nice_47,FRANCE,Nice,3,Business,,76,78,2010,,0.781,131.85,102.95,2855.8,0.009,8.3,3.8,148
+HTL_0350,Hotel_Bilbao_350,Spain,Bilbao,3,Independent,,115,107,2016,,0.734,146.58,107.52,4513.2,0.039,6.9,2.8,711
+HTL_0372,Hotel_Lyon_372,France,Lyon,4,Chain - National,Hilton,128,149,1962,2015.0,0.912,171.04,155.96,7286.7,0.209,9.2,4.0,633
+HTL_0539,Hotel_Venice_539,Italy,Venice,4*,Business,,113,126,1974,,0.678,294.88,199.81,8241.3,0.156,7.4,4.0,729
+HTL_0262,Hotel_Amsterdam_262,Holland,Amsterdam,3,Chain - National,Best Western,85,74,1884,2006.0,0.626,203.47,127.47,3954.8,0.107,8.7,4.3,280
+HTL_0196,Hotel_The Hague_196,NETHERLANDS,The Hague,3,Independent,,129,109,1934,2016.0,0.795,167.99,133.48,6285.0,0.209,7.7,3.6,453
+HTL_D0501,Hotel_Cologne_501,germany,Cologne,2,Resort,IHG,182,110,1996,2014.0,0.811,132.87,107.81,7162.0,0.172,6.1,3.1,856
+HTL_0692,Hotel_Frankfurt_692,Germany,Frankfurt,5,Chain - International,AccorHotels,81,97,2004,2011.0,0.759,241.39,183.31,5419.7,0.13,,3.5,542
+HTL_0108,Hotel_Munich_108,GERMANY,Munich,2,Boutique,,61,44,2009,2020.0,0.63,136.88,86.3,1921.5,0.096,8.1,3.6,282
+HTL_0060,Hotel_Lisbon_60,PT,Lisbon,5*,Independent,,188,274,1967,2010.0,0.899,176.71,158.93,10905.6,0.206,9.2,4.6,1339
+HTL_0616,Hotel_Amsterdam_616,Holland,Amsterdam,3*,Boutique,IHG,60,58,1985,2008.0,0.674,180.51,121.72,2665.7,0.128,7.1,3.3,241
+HTL_0454,Hotel_Thessaloniki_454,GREECE,Thessaloniki,2,Business,,96,65,1970,2000.0,0.775,85.18,65.98,2312.1,0.042,6.5,3.4,564
+HTL_0101,Hotel_Naples_101,ITALY,Naples,5,Business,,164,205,1979,2021.0,0.91,317.5,289.03,17301.6,0.159,10.0,4.8,989
+HTL_0728,Hotel_Venice_728,Italia,Venice,4*,Independent,,158,184,1984,2004.0,0.64,176.96,113.17,6526.6,0.273,8.2,4.1,618
+HTL_0742,Hotel_Hamburg_742,Deutschland,Hamburg,3,Chain - International,Hilton,87,80,2011,,0.595,194.31,115.59,3670.5,0.024,,3.6,478
+HTL_0600,Hotel_Bordeaux_600,FR,Bordeaux,5,Independent,,166,192,1974,2018.0,0.869,267.22,232.17,14067.0,0.16,9.6,4.7,988
+HTL_0591,Hotel_Seville_591,Spain,Seville,2,Chain - International,IHG,72,49,1999,2005.0,0.744,110.3,82.07,2156.7,0.023,8.0,3.7,142
+HTL_0180,Hotel_Faro_180,PORTUGAL,Faro,3,Boutique,,47,37,2014,,0.75,133.6,100.23,1719.4,0.002,7.0,4.0,292
+HTL_0305,Hotel_Thessaloniki_305,GR,Thessaloniki,2,Business,,59,34,1973,2012.0,0.66,80.29,52.97,1140.7,,4.8,2.7,369
+HTL_0444,Hotel_Malaga_444,SPAIN,Malaga,3,Independent,AccorHotels,36,32,1961,2003.0,0.685,128.97,88.31,1160.4,0.139,5.9,2.4,104
+HTL_D0003,Hotel_Lyon_3,FRANCE,Lyon,3,Independent,,58,50,2006,2012.0,0.751,207.95,156.17,3306.2,0.113,8.3,4.135034089248312,310
+HTL_0796,Hotel_Florence_796,Italia,Florence,4,Independent,,119,141,2001,2022.0,0.606,196.05,118.76,,-0.103,9.3,4.3,557
+HTL_0150,Hotel_Madrid_150,spain,Madrid,5*,Chain - National,IHG,121,171,2002,2006.0,0.908,220.54,200.15,8839.6,0.254,9.3,4.5,1044
+HTL_0125,Hotel_Munich_125,GERMANY,Munich,3,Business,,56,41,2003,2006.0,0.895,263.01,235.51,4813.8,0.14,6.9,4.0,200
+HTL_0654,Hotel_Hamburg_654,Deutschland,Hamburg,4,Budget,,154,153,1977,2009.0,0.545,301.43,164.18,9228.4,0.068,6.2,3.1,782
+HTL_0718,Hotel_Seville_718,SPAIN,Seville,2,Chain - International,Marriott,42,34,2015,,0.698,72.97,50.89,780.2,0.002,8.0,4.1,118
+HTL_0186,Hotel_Santorini_186,Greece,Santorini,3 star,Independent,,114,97,2009,2013.0,0.807,132.4,106.86,4446.4,0.269,7.1,3.4,853
+HTL_0667,Hotel_Frankfurt_667,germany,Frankfurt,3,Chain - National,IHG,79,64,2002,2015.0,0.763,162.34,123.79,3569.4,0.062,6.2,2.9,442
+HTL_0051,Hotel_Florence_51,Italia,Florence,1,Boutique,,23,11,2015,,0.681,105.71,71.95,604.0,0.006,5.2,2.3,81
+HTL_0484,Hotel_Naples_484,Italy,Naples,5 star,Chain - National,Local Chain,195,272,1962,2017.0,0.717,286.69,205.48,14625.2,0.239,10.0,4.6,934
+HTL_D0648,Hotel_Madrid_648,Spain,Madrid,3,Independent,,107,106,1979,2022.0,0.834,144.02,120.15,4692.5,0.13,8.0,4.0,559
+HTL_0486,Hotel_Marseille_486,FRANCE,Marseille,5,Independent,,85,99,1887,2018.0,0.927,395.16,366.2,11361.2,0.182,9.2,4.5,372
+HTL_0322,Hotel_Madrid_322,Spain,Madrid,2,Independent,,50,33,2007,2021.0,0.631,101.63,64.14,1170.6,-0.057,8.2,3.7,204
+HTL_0354,Hotel_Bilbao_354,ES,Bilbao,2,Chain - National,Meliá,45,31,1963,2017.0,0.658,93.78,61.7,1013.4,0.113,7.6,3.2,228
+HTL_0764,Hotel_Berlin_764,Germany,Berlin,four,Chain - National,Radisson,153,175,1967,2016.0,0.856,179.53,153.75,8586.1,0.083,5.3,3.0,1030
+HTL_0143,Hotel_Frankfurt_143,Germany,Frankfurt,2,Resort,,130,110,1999,2016.0,0.662,143.18,94.76,4496.2,0.1,5.7,3.1,288
+HTL_0371,Hotel_Barcelona_371,SPAIN,Barcelona,3,Chain - International,IHG,46,48,2004,2012.0,0.806,154.82,124.81,2095.6,0.235,6.7,3.1,255
+HTL_0142,Hotel_Bilbao_142,spain,Bilbao,4,Chain - International,NH Hotels,111,121,2020,,0.893,186.24,166.26,6736.0,0.257,7.8,3.3,422
+HTL_0400,Hotel_Milan_400,IT,Milan,5,Boutique,,57,73,2002,2022.0,0.858,250.53,214.9,4470.9,0.139,8.8,4.3,196
+HTL_0264,Hotel_Rome_264,Italia,Rome,4,Boutique,,28,27,1995,2001.0,0.98,258.65,253.47,2590.5,0.104,6.6,2.8,135
+HTL_0321,Hotel_Lyon_321,FR,Lyon,5,Resort,,469,593,1992,2017.0,0.958,311.43,298.32,51068.0,0.049,7.8,3.8,3630
+HTL_0020,Hotel_Madrid_20,Spain,Madrid,5,Chain - International,Meliá,118,152,1992,2019.0,0.923,214.5,197.89,8523.2,0.189,8.7,4.2,368
+HTL_0173,Hotel_Marseille_173,FRANCE,Marseille,4,Chain - National,Hilton,55,59,1967,2023.0,0.907,316.89,287.51,5771.8,,7.8,3.4,340
+HTL_0673,Hotel_Salzburg_673,Austria,Salzburg,5*,Independent,Marriott,107,139,2018,,0.707,265.51,187.79,7334.3,0.082,8.7,4.2,190
+HTL_0313,Hotel_Munich_313,Germany,Munich,3,Independent,Marriott,46,28,2005,2018.0,0.521,162.02,84.36,,0.135,6.7,3.8,177
+HTL_0391,Hotel_Paris_391,France,Paris,3,Independent,,38,29,1979,2018.0,0.818,142.3,116.39,1614.3,0.11,6.1,2.8,178
+HTL_D0573,Hotel_Athens_573,Greece,Athens,4,Business,Marriott,124,147,2008,2014.0,0.716,211.0,151.05,6836.5,0.215,8.5,4.6,555
+HTL_0013,Hotel_Cologne_13,GERMANY,Cologne,three,Chain - National,Best Western,123,99,2011,,0.773,164.34,127.03,5703.0,0.159,8.6,4.4,822
+HTL_0408,Hotel_Porto_408,PT,Porto,4*,Business,,91,106,1995,2021.0,0.723,162.56,117.61,3906.5,0.145,8.4,4.0,251
+HTL_0409,Hotel_Seville_409,ES,Seville,4,Independent,,115,122,1856,2004.0,0.868,137.21,119.16,5001.8,0.176,6.9,3.4,448
+HTL_0306,Hotel_Florence_306,ITALY,Florence,3,Boutique,,70,64,2017,,0.752,188.75,141.88,3624.9,,8.4,4.5,333
+HTL_0355,Hotel_Bordeaux_355,FRANCE,Bordeaux,2,Business,,65,46,2010,,0.615,134.36,82.62,1960.2,0.129,6.6,3.2,133
+HTL_0026,Hotel_Valencia_26,Spain,Valencia,3,Independent,,107,109,1975,2006.0,0.781,154.16,120.45,4704.1,0.223,8.2,4.0,261
+HTL_0614,Hotel_Cologne_614,Germany,Cologne,5 star,Independent,,129,170,1856,2000.0,0.878,299.01,262.65,12367.1,0.254,7.2,3.6,955
+HTL_0170,Hotel_Madrid_170,Spain,Madrid,4,Resort,,146,170,1865,2015.0,0.873,193.7,169.07,9010.0,0.059,7.7,4.1,792
+HTL_0039,Hotel_Rome_39,IT,Rome,2,Chain - International,Local Chain,51,40,1996,2003.0,0.832,117.49,97.71,1818.8,0.025,4.7,2.0,239
+HTL_0176,Hotel_Porto_176,PORTUGAL,Porto,5,Boutique,,93,120,1993,2003.0,0.906,167.34,151.69,5149.2,0.068,9.1,4.2,441
+HTL_0246,Hotel_Rome_246,Italy,Rome,5,Chain - National,Meliá,102,134,2003,2004.0,0.8,301.37,240.97,8971.4,0.037,9.8,4.4,267
+HTL_0299,Hotel_Munich_299,Deutschland,Munich,3,Boutique,,10,9,2011,,0.687,,141.2,515.4,0.105,6.6,3.2,45
+HTL_0688,Hotel_Naples_688,IT,Naples,3,Chain - International,Marriott,70,67,2000,2002.0,0.713,114.52,81.67,2086.5,0.115,8.0,4.7,492
+HTL_0417,Hotel_Venice_417,ITALY,Venice,3,Chain - National,Radisson,88,82,2008,2018.0,0.7,134.03,93.76,3011.6,0.024,8.1,3.6,503
+HTL_0649,Hotel_The Hague_649,Holland,The Hague,5 star,Independent,,132,164,1972,2005.0,0.772,255.44,197.29,9505.5,0.055,8.2,4.1,583
+HTL_0273,Hotel_Madeira_273,PORTUGAL,Madeira,2,Boutique,,30,20,1976,2015.0,0.669,96.58,64.58,707.2,,6.0,2.8,115
+HTL_0474,Hotel_Paris_474,FRANCE,Paris,five,Resort,,447,573,2038,2017.0,0.98,367.66,360.3,58785.2,0.134,8.4,3.6,1727
+HTL_0630,Hotel_Faro_630,PT,Faro,5,Independent,,145,195,1964,,0.815,181.65,148.07,,0.19,9.8,4.4,1100
+HTL_0155,Hotel_Frankfurt_155,germany,Frankfurt,3,Boutique,,25,22,1981,2010.0,0.737,198.38,146.14,1333.5,0.127,6.0,3.3,155
+HTL_0127,Hotel_The Hague_127,NETHERLANDS,The Hague,2,Chain - International,IHG,84,65,2001,2004.0,0.568,146.65,83.35,2555.6,0.082,7.5,3.9,175
+HTL_0450,Hotel_Malaga_450,Spain,Malaga,5 star,Boutique,,62,93,1921,2004.0,0.747,276.0,206.28,4668.0,0.016,8.4,4.0,234
+HTL_0588,Hotel_Santorini_588,GREECE,Santorini,3,Chain - National,AccorHotels,71,65,1987,2013.0,0.904,127.86,115.6,2995.9,0.194,6.9,3.6,640
+HTL_0342,Hotel_Hamburg_342,DE,Hamburg,4,Resort,,476,515,2016,,0.934,172.17,160.74,27926.7,0.257,8.0,4.1,2377
+HTL_0431,Hotel_Milan_431,Italy,Milan,4,Boutique,,46,47,2014,,0.98,193.81,189.94,3189.0,0.205,9.0,5.0,272
+HTL_0288,Hotel_Valencia_288,ES,Valencia,2,Boutique,NH Hotels,13,8,1993,2019.0,0.635,,54.7,259.5,0.161,7.5,3.6,70
+HTL_0114,Hotel_Marseille_114,FRANCE,Marseille,5,Independent,NH Hotels,119,154,2006,2019.0,0.797,231.71,184.75,,0.209,9.3,4.3,722
+HTL_0530,Hotel_Vienna_530,AUSTRIA,Vienna,5,Boutique,AccorHotels,69,93,2018,,0.82,234.43,192.34,4844.0,0.148,7.6,3.8,165
+HTL_0174,Hotel_Marseille_174,France,Marseille,3,Boutique,,11,11,1961,,0.878,160.91,141.33,567.4,0.176,9.3,5.0,91
+HTL_0360,Hotel_Rotterdam_360,NETHERLANDS,Rotterdam,3,Independent,,76,81,1999,2019.0,0.924,243.08,224.52,6228.2,0.046,7.3,3.8,568
+HTL_0716,Hotel_Venice_716,Italia,Venice,3,Chain - National,NH Hotels,106,85,1980,2006.0,0.795,220.35,175.26,6780.9,0.161,7.2,3.1,537
+HTL_0058,Hotel_Venice_58,Italy,Venice,2,Chain - International,NH Hotels,67,50,1965,2017.0,0.705,124.29,87.62,2142.8,0.087,6.3,3.1,136
+HTL_0568,Hotel_Frankfurt_568,DE,Frankfurt,3,Boutique,,66,66,1997,2009.0,0.734,229.61,168.51,4059.4,,8.3,3.7,322
+HTL_0223,Hotel_Nice_223,FR,Nice,1,Chain - International,Hyatt,88,41,1988,2010.0,0.739,93.97,69.46,2231.0,-0.126,3.5,2.0,180
+HTL_0709,Hotel_Lyon_709,FRANCE,Lyon,4,Independent,,137,134,1987,2018.0,0.799,232.2,185.48,,0.064,,3.6,400
+HTL_0281,Hotel_Malaga_281,spain,Malaga,5,Chain - National,AccorHotels,96,139,1978,2022.0,0.787,195.89,154.11,5399.9,0.081,9.2,4.8,467
+HTL_0018,Hotel_Berlin_18,Deutschland,Berlin,2,Chain - National,IHG,81,64,2007,2018.0,0.578,132.2,76.35,2257.2,0.103,6.8,3.4,393
+HTL_0128,Hotel_Lisbon_128,PORTUGAL,Lisbon,5*,Independent,,137,181,2001,2010.0,0.716,245.23,175.52,8776.9,0.171,10.0,4.8,399
+HTL_0323,Hotel_Porto_323,PORTUGAL,Porto,2,Independent,,59,43,1970,2020.0,0.648,59.78,38.76,,0.194,7.5,3.6,270
+HTL_0256,Hotel_Hamburg_256,Deutschland,Hamburg,1,Independent,,42,17,2017,,0.548,76.88,42.1,,0.045,5.0,3.1,130
+HTL_0685,Hotel_Berlin_685,germany,Berlin,3,Boutique,,21,16,1998,2007.0,0.749,190.31,142.49,1092.2,0.234,6.9,,40
+HTL_0471,Hotel_Venice_471,Italia,Venice,3*,Chain - International,Marriott,169,129,1977,2008.0,0.861,158.31,136.34,8410.4,0.123,7.1,3.0,1395
+HTL_D0696,Hotel_Madrid_696,España,Madrid,3,Chain - International,AccorHotels,97,98,2001,2016.0,0.802,152.64,122.44,4335.0,0.186,6.4,3.4,413
+HTL_0469,Hotel_Venice_469,IT,Venice,3,Independent,,67,52,2010,,0.66,159.87,105.54,,0.176,10.0,4.3,253
+HTL_0794,Hotel_Salzburg_794,Austria,Salzburg,3,Independent,Hilton,54,48,1995,2010.0,0.625,185.02,115.72,2280.8,0.018,7.3,3.4,296
+HTL_0191,Hotel_Santorini_191,Greece,Santorini,4,Chain - International,NH Hotels,87,84,1858,2023.0,0.749,263.5,197.46,6270.3,0.035,7.4,3.7,174
+HTL_0116,Hotel_Lyon_116,FRANCE,Lyon,3,Chain - International,Hyatt,94,71,2013,,0.799,216.9,173.35,5947.8,0.143,8.0,4.4,408
+HTL_0532,Hotel_Valencia_532,SPAIN,Valencia,3,Boutique,,10,8,1996,2019.0,0.673,150.48,101.31,369.8,0.119,9.3,3.7,55
+HTL_0747,Hotel_Naples_747,ITALY,Naples,1,Boutique,,16,8,1979,2000.0,0.861,64.01,55.13,322.0,0.092,7.7,3.4,92
+HTL_0519,Hotel_Bilbao_519,spain,Bilbao,3,Independent,,67,51,2015,,0.721,87.9,63.42,1550.9,0.064,9.3,4.3,234
+HTL_0095,Hotel_Marseille_95,France,Marseille,two,Business,,158,123,1972,2012.0,0.701,105.02,73.58,4243.6,0.159,6.4,3.2,734
+HTL_0181,Hotel_Lyon_181,france,Lyon,4,Chain - International,NH Hotels,101,97,1971,2016.0,0.853,278.83,237.71,8763.2,0.278,,2.5,312
+HTL_0302,Hotel_Cologne_302,GERMANY,Cologne,4,Independent,,76,74,1999,2018.0,0.56,166.46,93.16,2584.2,0.25,9.0,4.2,335
+HTL_0635,Hotel_Cologne_635,Germany,Cologne,4,Independent,,106,120,2010,,0.661,177.9,117.66,,0.057,8.7,4.2,378
+HTL_0598,Hotel_Rome_598,Italy,Rome,3*,Independent,,24,21,2015,,0.771,,134.23,1175.8,0.052,8.8,3.8,154
+HTL_0607,Hotel_Lyon_607,FR,Lyon,4 star,Independent,,102,89,2011,,0.98,259.3,254.11,,0.292,8.0,4.3,842
+HTL_0577,Hotel_Innsbruck_577,Austria,Innsbruck,4,Chain - National,Hyatt,81,94,2008,2021.0,0.794,253.4,201.25,5950.0,0.073,6.8,3.2,422
+HTL_0558,Hotel_Malaga_558,SPAIN,Malaga,4,Chain - International,Marriott,83,84,1964,2005.0,0.98,214.82,210.52,6377.8,0.113,7.3,3.7,780
+HTL_0518,Hotel_Madrid_518,spain,Madrid,3,Chain - International,Radisson,69,66,1984,2016.0,0.707,125.95,89.11,2244.2,0.059,8.2,4.0,372
+HTL_D0138,Hotel_Venice_138,italy,Venice,3*,Chain - National,AccorHotels,145,158,1971,2014.0,0.66,204.39,134.86,7137.3,0.069,7.7,3.4,319
+HTL_0046,Hotel_Marseille_46,France,Marseille,4,Chain - National,Best Western,151,179,1997,2001.0,0.932,216.46,201.64,11113.3,0.045,8.2,3.9,1253
+HTL_0750,Hotel_The Hague_750,Netherlands,The Hague,3,Independent,,120,119,1926,2000.0,0.736,85.5,62.91,,0.124,7.0,3.7,625
+HTL_0158,Hotel_Paris_158,France,Paris,4,Resort,,213,210,2014,,0.799,241.09,192.57,14971.4,0.011,,3.4,774
+HTL_0622,Hotel_Lisbon_622,PT,Lisbon,2,Resort,,215,161,1992,2014.0,0.661,98.1,64.84,5088.2,0.007,6.7,3.4,373
+HTL_0172,Hotel_Marseille_172,France,Marseille,5,Chain - National,Local Chain,173,259,1852,2007.0,0.852,323.47,275.65,17405.7,0.208,8.8,4.3,1354
+HTL_0017,Hotel_Rotterdam_17,Holland,Rotterdam,4,Independent,,154,158,1931,2001.0,0.791,241.53,191.05,10738.9,,10.0,4.4,1000
+HTL_0512,Hotel_Madrid_512,ES,Madrid,3,Chain - International,Radisson,60,53,2018,,0.77,133.36,102.69,2248.9,0.13,8.6,4.5,170
+HTL_0049,Hotel_Paris_49,france,Paris,3,Chain - International,Radisson,55,58,1986,2017.0,0.849,184.63,156.81,3148.0,0.052,6.8,3.1,123
+HTL_0800,Hotel_Rotterdam_800,Holland,Rotterdam,4,Independent,,82,76,1894,2008.0,0.781,210.31,164.25,4916.1,0.092,6.2,3.1,241
+HTL_0516,Hotel_Vienna_516,AUSTRIA,Vienna,3,Boutique,,11,10,1996,2007.0,0.634,127.76,81.05,325.4,0.097,8.2,3.4,32
+HTL_0668,Hotel_Faro_668,Portugal,Faro,2,Chain - National,Best Western,48,34,1960,2003.0,0.663,83.02,55.05,964.5,0.099,6.2,3.5,311
+HTL_0481,Hotel_Marseille_481,France,Marseille,4,Chain - National,Hilton,86,99,2007,2007.0,0.979,162.99,159.49,5006.5,0.139,8.4,4.5,434
+HTL_0284,Hotel_Madrid_284,ES,Madrid,2*,Chain - National,Marriott,114,94,1971,2007.0,0.808,104.3,84.25,3505.6,0.038,5.5,2.5,310
+HTL_0552,Hotel_Barcelona_552,Spain,Barcelona,4,Independent,IHG,95,109,1983,2001.0,0.658,239.13,157.26,,0.103,7.1,3.3,533
+HTL_0226,Hotel_Amsterdam_226,Netherlands,Amsterdam,5,Chain - National,Best Western,131,170,2015,,0.974,195.98,190.83,9124.4,,9.5,4.3,881
+HTL_0027,Hotel_Cologne_27,Deutschland,Cologne,3,Chain - International,NH Hotels,55,48,1943,2013.0,0.647,213.41,138.16,2773.6,0.108,9.0,4.4,165
+HTL_0650,Hotel_Thessaloniki_650,GR,Thessaloniki,4,Independent,NH Hotels,114,127,1995,2018.0,0.594,159.36,94.69,,-0.051,9.7,4.7,539
+HTL_0438,Hotel_Malaga_438,Spain,Malaga,2,Independent,,91,63,1976,2023.0,0.582,125.31,72.88,2420.6,0.073,7.4,3.2,262
+HTL_0365,Hotel_Naples_365,IT,Naples,3,Chain - International,Meliá,74,-1,1989,2012.0,0.56,161.15,90.31,2439.2,0.09,8.1,3.9,372
+HTL_0230,Hotel_Munich_230,Deutschland,Munich,3,Chain - National,AccorHotels,41,35,1882,2016.0,0.654,163.61,107.0,1601.2,0.118,7.2,3.8,246
+HTL_0038,Hotel_Malaga_38,spain,Malaga,1,Independent,,64,36,2021,,0.654,78.3,51.24,1197.1,0.096,5.5,3.1,240
+HTL_0795,Hotel_Lisbon_795,Portugal,Lisbon,three,Independent,Marriott,88,69,2022,,0.592,153.86,91.05,,0.136,8.6,3.3,196
+HTL_0375,Hotel_Milan_375,IT,Milan,4,Independent,,66,83,1911,2015.0,0.654,172.23,112.58,2712.1,0.046,8.6,3.9,119
+HTL_0470,Hotel_Athens_470,GREECE,Athens,2,Boutique,AccorHotels,10,6,1977,2015.0,0.665,71.89,47.83,174.6,,8.1,,48
+HTL_0797,Hotel_Berlin_797,Deutschland,Berlin,5,Independent,,124,150,1960,2016.0,0.798,244.29,194.94,8823.1,0.082,9.4,4.6,413
+HTL_0749,Hotel_Naples_749,Italy,Naples,3,Business,,50,41,2010,,0.938,171.52,160.95,2937.4,0.158,8.5,4.2,457
+HTL_0609,Hotel_Barcelona_609,spain,Barcelona,4,Chain - International,AccorHotels,111,119,1962,2004.0,0.661,156.33,103.33,4186.5,0.115,7.7,3.5,300
+HTL_0195,Hotel_Nice_195,france,Nice,4,Chain - International,Local Chain,94,100,2012,,0.941,224.71,211.41,7253.6,0.045,9.0,3.9,611
+HTL_0705,Hotel_Naples_705,ITALY,Naples,1,Chain - International,AccorHotels,143,71,1983,2012.0,0.62,89.04,55.24,2883.5,0.08,5.2,3.0,496
+HTL_0714,Hotel_Milan_714,IT,Milan,2,Chain - National,AccorHotels,53,36,2016,,0.733,80.45,58.99,1141.2,0.125,6.5,3.2,271
+HTL_0504,Hotel_Rome_504,italy,Rome,4 star,Boutique,,50,53,1980,2017.0,0.724,208.69,150.99,2755.5,0.032,7.6,3.3,267
+HTL_0799,Hotel_Lyon_799,France,Lyon,4,Chain - National,Best Western,63,68,1968,2019.0,0.957,272.17,260.37,5987.1,0.046,8.6,3.9,368
+HTL_0689,Hotel_Marseille_689,FR,Marseille,3,Independent,,63,54,1967,2007.0,0.791,136.72,108.2,,0.171,7.0,3.5,146
+HTL_0798,Hotel_Malaga_798,Spain,Malaga,5,Budget,Hilton,145,201,2008,2018.0,0.918,243.09,223.23,11814.6,0.128,9.5,4.6,401
+HTL_0163,Hotel_Faro_163,PT,Faro,3 star,Boutique,NH Hotels,10,7,1943,2021.0,0.616,117.51,72.38,264.2,0.115,9.0,4.1,49
+HTL_0590,Hotel_Frankfurt_590,germany,Frankfurt,3,Independent,IHG,66,62,1969,2005.0,0.816,182.32,148.83,3585.2,0.068,8.7,4.3,170
+HTL_0153,Hotel_Nice_153,FR,Nice,3,Chain - International,Local Chain,89,77,2015,,0.888,274.45,243.84,7921.0,0.072,7.3,4.1,238
+HTL_0573,Hotel_Athens_573,Greece,Athens,4,Business,Marriott,124,147,2008,2014.0,0.716,211.0,151.05,6836.5,0.215,8.5,4.6,555
+HTL_0589,Hotel_Lisbon_589,PORTUGAL,Lisbon,3,Resort,,148,144,2008,2013.0,0.807,134.53,108.51,5861.8,0.114,7.1,3.8,957
+HTL_0631,Hotel_Valencia_631,ES,Valencia,3,Chain - National,Hyatt,40,33,2007,2011.0,0.817,101.14,82.62,1206.2,0.071,8.0,3.4,204
+HTL_0112,Hotel_Barcelona_112,España,Barcelona,4,Chain - International,IHG,120,167,2017,,0.867,163.46,141.71,6207.0,0.086,8.8,3.6,1037
+HTL_0227,Hotel_Innsbruck_227,AUSTRIA,Innsbruck,5,Chain - International,Local Chain,108,129,2004,2022.0,0.792,192.91,152.78,6022.7,0.196,9.9,4.2,391
+HTL_0579,Hotel_Bilbao_579,ES,Bilbao,4,Chain - International,Radisson,93,98,1987,2022.0,0.946,171.49,162.3,5509.1,0.182,8.4,4.0,477
+HTL_0104,Hotel_Madeira_104,Portugal,Madeira,5,Resort,,204,249,1997,2015.0,0.864,161.33,139.36,10376.8,0.142,7.7,3.5,568
+HTL_0422,Hotel_Venice_422,italy,Venice,4,Independent,,73,65,1986,2006.0,0.646,194.06,125.44,3342.4,0.09,8.4,4.6,452
+HTL_0420,Hotel_Barcelona_420,ES,Barcelona,1,Business,,56,26,1982,2007.0,0.611,76.24,46.61,952.8,0.154,6.7,2.9,309
+HTL_0120,Hotel_Venice_120,Italia,Venice,4,Boutique,Marriott,50,52,2006,,0.734,159.92,117.46,2143.6,0.071,9.2,4.2,183
+HTL_0054,Hotel_Bordeaux_54,France,Bordeaux,3,Boutique,,10,10,2011,,0.913,,170.54,622.5,0.025,7.6,,27
+HTL_0152,Hotel_Barcelona_152,SPAIN,Barcelona,4,Budget,,174,201,1970,2009.0,0.564,218.2,123.17,7822.5,0.226,7.5,3.6,387
+HTL_0404,Hotel_Paris_404,FR,Paris,3,Resort,,227,217,1975,2023.0,0.885,189.02,167.22,13854.6,0.142,6.4,3.2,1363
+HTL_0778,Hotel_Malaga_778,spain,Malaga,2,Resort,,89,69,2011,,0.828,97.29,80.55,2616.8,0.097,8.0,3.4,702
+HTL_0208,Hotel_Madeira_208,PT,Madeira,5,Independent,,89,106,1964,2012.0,0.824,216.56,178.55,5800.3,0.104,8.8,4.3,682
+HTL_0698,Hotel_Thessaloniki_698,GREECE,Thessaloniki,4*,Resort,,218,241,1971,2011.0,0.934,157.22,146.86,11685.4,-0.063,8.8,3.9,1105
+HTL_0637,Hotel_Berlin_637,DE,Berlin,4,Chain - International,Best Western,119,157,1963,2009.0,0.825,256.78,211.84,9201.1,0.198,7.4,3.8,712
+HTL_0009,Hotel_Amsterdam_9,Netherlands,Amsterdam,3 star,Boutique,,38,36,1987,2001.0,0.769,174.6,134.19,1861.2,0.112,4.4,2.4,139
+HTL_0671,Hotel_Bordeaux_671,FR,Bordeaux,3,Independent,,77,73,2005,2021.0,0.935,236.05,220.76,6204.3,0.19,7.3,3.8,473
+HTL_0037,Hotel_Thessaloniki_37,GREECE,Thessaloniki,3,Resort,,141,147,1985,2018.0,0.781,137.96,107.74,5545.1,0.063,8.3,3.9,449
+HTL_0453,Hotel_Malaga_453,ES,Malaga,2,Independent,,40,22,1993,2020.0,0.728,129.19,94.08,,-0.035,7.6,3.5,254
+HTL_0254,Hotel_Rome_254,Italy,Rome,three,Boutique,,65,51,1986,2021.0,0.828,141.57,117.22,2781.1,0.024,7.3,3.1,509
+HTL_0304,Hotel_Vienna_304,AUSTRIA,Vienna,4,Budget,,136,138,1977,,0.915,233.75,213.98,10621.8,0.111,7.6,3.3,316
+HTL_0623,Hotel_Paris_623,France,Paris,3,Independent,AccorHotels,56,51,1986,2012.0,0.674,249.52,168.07,3435.3,0.162,7.9,3.8,184
+HTL_0572,Hotel_Bilbao_572,Spain,Bilbao,3,Chain - International,IHG,123,111,1993,2022.0,0.98,147.1,144.16,6471.9,0.296,6.9,3.2,965
+HTL_0596,Hotel_Cologne_596,Deutschland,Cologne,2,Chain - National,Local Chain,63,46,1897,2009.0,0.764,185.16,141.52,3254.3,0.022,8.0,3.5,336
+HTL_0604,Hotel_Nice_604,FRANCE,Nice,3,Independent,,96,97,1981,2017.0,0.713,226.06,161.15,5646.7,-0.043,6.8,3.5,548
+HTL_0263,Hotel_Barcelona_263,España,Barcelona,5,Chain - National,Hyatt,88,98,1991,2013.0,0.98,259.01,253.83,8152.9,0.196,9.6,4.3,240
+HTL_0298,Hotel_The Hague_298,Netherlands,The Hague,3,Independent,NH Hotels,71,67,1977,2016.0,0.739,205.05,151.44,,0.055,6.7,2.6,273
+HTL_0415,Hotel_Barcelona_415,spain,Barcelona,2,Boutique,,21,10,1977,2023.0,0.777,103.71,80.55,617.4,0.051,5.4,2.5,70
+HTL_0151,Hotel_Venice_151,ITALY,Venice,five,Boutique,,56,67,2000,2022.0,0.98,196.27,192.35,3931.5,,8.5,4.3,163
+HTL_0656,Hotel_Milan_656,ITALY,Milan,4,Independent,,139,148,1979,,0.738,133.41,98.5,4997.2,0.145,8.4,4.3,851
+HTL_0733,Hotel_Cologne_733,Germany,Cologne,3,Chain - International,Meliá,72,59,2015,,0.629,244.34,153.72,4039.7,0.127,,3.1,310
+HTL_0551,Hotel_Bilbao_551,Spain,Bilbao,2,Independent,,1036,937,1911,2007.0,0.675,139.3,94.05,13594.5,0.079,6.1,3.1,878
+HTL_0489,Hotel_Bordeaux_489,france,Bordeaux,1,Chain - National,Marriott,49,24,1970,2022.0,0.772,91.86,70.93,1268.5,0.056,6.0,3.2,180
+HTL_0148,Hotel_Nice_148,France,Nice,3,Resort,,312,261,2018,,0.844,227.42,192.01,21865.8,0.132,5.7,3.1,2001
+HTL_0147,Hotel_Barcelona_147,ES,Barcelona,three,Resort,,257,228,1976,,0.959,89.44,85.74,8042.5,,7.3,3.7,1304
+HTL_0605,Hotel_Santorini_605,GREECE,Santorini,4,Business,,84,94,2005,2019.0,0.789,161.45,127.34,3904.2,0.085,,3.6,626
+HTL_0767,Hotel_Munich_767,Germany,Munich,one,Chain - International,Local Chain,50,21,2016,,0.84,92.98,78.06,1424.5,-0.248,5.0,2.9,199
+HTL_0618,Hotel_Malaga_618,SPAIN,Malaga,3,Independent,,186,182,1962,2022.0,0.787,150.54,118.48,,0.033,5.7,2.8,1076
+HTL_0349,Hotel_Barcelona_349,SPAIN,Barcelona,3,Independent,Marriott,46,39,2002,2023.0,0.564,181.93,102.63,,,7.9,3.9,257
+HTL_0464,Hotel_Rome_464,IT,Rome,1,Independent,Marriott,23,12,2003,2015.0,0.608,89.34,54.31,,,5.5,3.0,132
+HTL_0326,Hotel_Marseille_326,france,Marseille,3,Independent,,45,44,1973,2009.0,0.745,200.28,149.22,2451.0,0.133,7.0,3.4,227
+HTL_0187,Hotel_Venice_187,Italia,Venice,3,Boutique,,22,20,2005,2019.0,0.644,174.16,112.22,901.1,0.186,8.3,4.2,59
+HTL_0124,Hotel_Berlin_124,Deutschland,Berlin,3,Boutique,,28,21,1985,,0.774,,142.92,1460.7,0.094,6.7,3.2,128
+HTL_0704,Hotel_Venice_704,ITALY,Venice,3,Chain - International,Hilton,92,82,1883,2006.0,0.851,124.98,106.37,3571.8,0.269,7.8,3.7,639
+HTL_0144,Hotel_Marseille_144,FR,Marseille,2,Resort,,228,135,1986,2021.0,0.84,97.11,81.56,6787.4,0.174,6.1,3.2,555
+HTL_0789,Hotel_Lisbon_789,Portugal,Lisbon,4,Chain - International,Radisson,210,226,2006,2015.0,0.656,108.06,70.83,5429.4,0.108,8.4,4.0,1040
+HTL_0198,Hotel_Venice_198,italy,Venice,4 star,Chain - International,Local Chain,92,98,1993,2023.0,0.98,130.4,127.79,4291.2,0.082,8.0,4.2,277
+HTL_0280,Hotel_Porto_280,PT,Porto,3,Independent,,135,130,1928,2010.0,0.814,121.58,99.02,4879.4,0.143,7.8,3.8,834
+HTL_0294,Hotel_Rome_294,Italia,Rome,3*,Independent,,61,57,1987,2020.0,0.708,123.91,87.77,1954.1,0.123,5.7,2.9,364
+HTL_0401,Hotel_Rome_401,Italia,Rome,2*,Chain - International,Radisson,67,57,1983,2009.0,0.659,97.08,63.99,1564.8,0.123,7.3,3.3,141
+HTL_0123,Hotel_Malaga_123,SPAIN,Malaga,4 star,Resort,,281,301,2013,,0.595,173.34,103.13,10578.0,0.214,7.3,3.2,1419
+HTL_0184,Hotel_Hamburg_184,DE,Hamburg,5,Chain - National,Best Western,102,153,2012,,0.847,231.81,196.29,7307.8,0.118,8.0,3.7,644
+HTL_0203,Hotel_Bordeaux_203,FRANCE,Bordeaux,2,Chain - International,NH Hotels,112,86,1983,,0.93,185.27,172.22,7040.4,-0.163,3.6,2.1,514
+HTL_0439,Hotel_Athens_439,GR,Athens,5,Independent,,136,177,1979,2000.0,0.743,227.46,168.99,8388.6,0.126,7.1,3.4,610
+HTL_0247,Hotel_Athens_247,GR,Athens,4,Boutique,,59,65,2021,,0.803,199.73,160.33,3452.6,0.007,9.3,4.3,415
+HTL_0416,Hotel_Faro_416,PORTUGAL,Faro,3*,Independent,,67,56,1977,,0.626,90.94,56.89,1391.3,0.121,7.1,3.2,416
+HTL_0732,Hotel_Faro_732,PT,Faro,4,Budget,,166,184,1982,2016.0,0.84,93.45,78.51,4757.1,0.165,9.4,4.2,1343
+HTL_0130,Hotel_Berlin_130,GERMANY,Berlin,four,Chain - National,NH Hotels,104,119,1984,,0.648,267.2,173.21,6575.0,-0.12,7.4,2.7,613
+HTL_0403,Hotel_Lyon_403,france,Lyon,2,Boutique,,1013,1084,1978,2016.0,0.588,156.63,92.14,3026.7,0.164,7.9,3.8,79
+HTL_0652,Hotel_Bilbao_652,España,Bilbao,1,Business,AccorHotels,39,22,2000,2009.0,0.687,67.94,46.67,664.4,-0.222,7.3,3.2,186
+HTL_0642,Hotel_Cologne_642,GERMANY,Cologne,2,Resort,,186,129,1943,2009.0,0.627,117.92,73.95,5020.8,0.018,6.4,3.2,654
+HTL_0752,Hotel_Berlin_752,germany,Berlin,2,Boutique,,35,22,1873,2002.0,0.572,142.34,81.35,1039.3,,7.7,4.2,101
+HTL_0220,Hotel_Rome_220,IT,Rome,3,Boutique,,26,24,1995,,0.98,206.89,202.74,1924.0,0.271,6.8,3.3,130
+HTL_0754,Hotel_Rome_754,italy,Rome,2,Resort,,94,69,1991,2020.0,0.698,142.58,99.47,3412.8,0.06,6.7,3.4,290
+HTL_0734,Hotel_Hamburg_734,germany,Hamburg,4,Business,Marriott,126,152,1987,,0.683,208.21,142.29,6544.0,0.102,8.4,3.6,729
+HTL_0757,Hotel_Frankfurt_757,Germany,Frankfurt,3,Independent,,117,108,1996,2023.0,0.639,123.59,78.93,3370.9,-0.237,7.4,3.4,479
+HTL_0625,Hotel_Bilbao_625,SPAIN,Bilbao,5,Independent,,84,104,1996,2021.0,0.876,184.58,161.61,4954.9,-0.086,7.6,3.6,632
+HTL_0695,Hotel_Nice_695,FRANCE,Nice,4,Resort,,184,220,1998,2004.0,0.823,244.39,201.23,13514.3,0.196,6.4,3.9,1353
+HTL_0636,Hotel_Bilbao_636,España,Bilbao,3,Chain - International,Best Western,133,129,1969,2001.0,0.718,136.2,97.85,4750.2,0.166,5.0,2.8,482
+HTL_0387,Hotel_Faro_387,Portugal,Faro,3,Chain - National,Hilton,84,84,2014,,0.772,93.89,72.47,2222.1,0.118,8.6,4.6,571
+HTL_D0545,Hotel_The Hague_545,NL,The Hague,3*,Independent,Hilton,59,59,1999,2019.0,0.628,168.8,106.06,2284.0,0.114,6.7,3.2,231
+HTL_0510,Hotel_Hamburg_510,GERMANY,Hamburg,2,Chain - National,Meliá,97,69,1979,2018.0,0.515,92.81,47.8,1692.4,,7.4,3.5,293
+HTL_0268,Hotel_Faro_268,Portugal,Faro,3,Boutique,,61,55,1975,2008.0,0.821,135.24,111.1,2473.6,0.08,9.0,4.4,137
+HTL_0681,Hotel_Madrid_681,ES,Madrid,4,Chain - International,NH Hotels,130,157,1965,2004.0,0.854,212.26,181.17,8596.6,0.044,8.6,4.3,745
+HTL_0442,Hotel_Malaga_442,ES,Malaga,2,Chain - International,Marriott,92,79,1974,2011.0,0.913,97.99,89.44,3003.5,0.103,6.6,2.9,309
+HTL_0497,Hotel_Rotterdam_497,NL,Rotterdam,2,Independent,,103,69,1980,2017.0,1.06197583970256,138.88,56.32,,0.054,6.3,3.1,236
+HTL_0113,Hotel_Faro_113,PORTUGAL,Faro,5,Chain - International,AccorHotels,79,90,1980,2014.0,0.815,193.09,157.35,4537.3,0.119,10.0,4.1,208
+HTL_0233,Hotel_Paris_233,france,Paris,2,Resort,,75,57,1961,2022.0,0.76,144.5,109.75,3004.4,0.263,6.5,2.7,281
+HTL_0719,Hotel_Madrid_719,SPAIN,Madrid,two,Chain - International,Best Western,212,158,1964,2008.0,0.65,103.34,67.16,5196.5,0.002,7.8,3.6,386
+HTL_0608,Hotel_Florence_608,IT,Florence,2,Boutique,,14,7,1963,2014.0,0.587,,65.47,334.5,0.236,,,31
+HTL_0374,Hotel_Naples_374,IT,Naples,5,Resort,,258,346,1961,2012.0,0.961,287.63,276.55,26043.2,0.064,9.4,5.0,2286
+HTL_0234,Hotel_Porto_234,PT,Porto,3,Chain - National,Local Chain,134,128,1966,2016.0,0.843,138.72,116.98,5721.3,0.08,8.2,4.3,479
+HTL_0653,Hotel_Bordeaux_653,FRANCE,Bordeaux,3,Independent,,105,109,1988,2008.0,0.671,191.52,128.52,4925.7,0.032,6.8,2.9,643
+HTL_0318,Hotel_Vienna_318,AT,Vienna,3 star,Business,Hilton,66,57,2009,,0.661,98.94,65.41,1575.7,0.231,7.6,3.2,217
+HTL_0411,Hotel_Munich_411,germany,Munich,5,Chain - International,Hyatt,149,191,1960,2011.0,0.913,265.01,241.89,13155.4,0.141,8.9,4.3,1134
+HTL_0741,Hotel_Barcelona_741,spain,Barcelona,4 star,Business,,134,157,2004,2008.0,0.815,156.48,127.57,6239.4,0.077,8.0,3.5,679
+HTL_0359,Hotel_Amsterdam_359,NETHERLANDS,Amsterdam,2,Independent,,57,32,2006,2010.0,0.614,98.08,60.24,1253.3,0.072,7.0,3.6,272
+HTL_0259,Hotel_Florence_259,IT,Florence,5,Resort,,211,274,1963,2014.0,0.849,194.37,165.07,12713.2,0.158,8.8,4.4,655
+HTL_0628,Hotel_Athens_628,GR,Athens,4,Business,,132,151,1972,2000.0,0.736,196.0,144.33,6954.0,0.111,,4.4,480
+HTL_0633,Hotel_Frankfurt_633,germany,Frankfurt,4,Budget,,142,170,1978,2007.0,0.833,240.43,200.19,10376.1,0.135,6.8,3.5,664
+HTL_0283,Hotel_Rotterdam_283,Netherlands,Rotterdam,three,Business,,108,108,1969,2021.0,0.912,189.22,172.59,6803.3,0.192,6.9,3.5,946
+HTL_0377,Hotel_Nice_377,france,Nice,3*,Chain - National,Best Western,112,105,1982,2005.0,0.604,186.3,112.58,4602.5,0.007,7.6,3.5,351
+HTL_0385,Hotel_Berlin_385,germany,Berlin,3,Business,,123,104,1975,2018.0,0.804,240.6,193.45,8684.8,0.084,,3.3,710
+HTL_0225,Hotel_Nice_225,france,Nice,3,Chain - National,NH Hotels,109,105,1981,2003.0,0.717,232.89,166.97,6642.8,0.085,7.0,2.8,696
+HTL_0784,Hotel_Rome_784,italy,Rome,1,Chain - International,Radisson,87,41,1961,2007.0,0.813,60.09,48.84,1551.1,-0.02,,3.3,260
+HTL_0677,Hotel_Mykonos_677,GR,Mykonos,two,Boutique,,26,18,1968,2006.0,0.604,116.19,70.2,666.2,,4.9,2.5,79
+HTL_0473,Hotel_Lyon_473,FRANCE,Lyon,3,Independent,,152,128,1997,,0.622,206.9,128.74,7142.5,,7.7,3.8,556
+HTL_0348,Hotel_Florence_348,Italy,Florence,1,Boutique,,10,5,1976,2017.0,0.748,,53.12,193.9,0.008,3.9,2.9,49
+HTL_0506,Hotel_Venice_506,IT,Venice,3,Chain - International,Radisson,78,63,1993,2007.0,0.799,174.76,139.62,3975.1,0.217,6.0,3.1,596
+HTL_0640,Hotel_The Hague_640,Netherlands,The Hague,4,Chain - International,Best Western,140,156,1970,2011.0,0.789,202.0,159.46,8148.6,0.087,7.4,3.6,400
+HTL_D0053,Hotel_Mykonos_53,GREECE,Mykonos,3,Boutique,,13,11,1984,2003.0,0.754,109.66,82.71,392.4,0.192,6.7,3.358624801125746,54
+HTL_0765,Hotel_Madrid_765,spain,Madrid,3,Chain - International,AccorHotels,101,98,1987,2015.0,0.98,146.37,143.45,5288.1,0.222,6.2,2.5,845
+HTL_0746,Hotel_Marseille_746,France,Marseille,3,Resort,,190,132,2019,,0.847,199.15,168.63,11694.7,0.005,8.7,4.2,1341
+HTL_0620,Hotel_Lisbon_620,PT,Lisbon,five,Chain - International,Meliá,100,134,1975,2003.0,0.976,166.97,162.89,5945.4,0.206,10.0,4.3,699
+HTL_0706,Hotel_Naples_706,IT,Naples,4,Chain - International,Best Western,141,140,2017,,0.98,206.27,202.14,10403.2,0.113,6.7,3.1,780
+HTL_0646,Hotel_Venice_646,italy,Venice,4,Business,IHG,92,110,2014,,0.821,192.76,158.19,5311.9,0.09,7.1,3.6,326
+HTL_0699,Hotel_Vienna_699,Austria,Vienna,3,Independent,Hilton,104,98,2022,,0.641,203.84,130.7,4961.4,-0.048,9.3,4.6,494
+HTL_0557,Hotel_Amsterdam_557,NETHERLANDS,Amsterdam,4*,Independent,,97,98,2004,2014.0,0.79,167.96,132.77,4700.7,0.101,8.0,3.7,217
+HTL_0578,Hotel_Lyon_578,France,Lyon,5,Business,,119,151,1960,2015.0,0.785,279.65,219.5,9534.0,0.214,8.0,3.9,541
+HTL_0086,Hotel_Mykonos_86,GREECE,Mykonos,4,Chain - National,AccorHotels,125,136,1985,2022.0,0.875,183.88,160.95,7343.6,0.152,8.8,3.2,588
+HTL_0243,Hotel_Berlin_243,Germany,Berlin,4,Budget,,122,136,2020,,0.679,280.77,190.52,8483.7,0.043,7.0,3.4,786
+HTL_0160,Hotel_Hamburg_160,DE,Hamburg,4,Chain - National,IHG,90,101,2011,,0.695,269.3,187.19,6149.1,0.033,7.7,3.4,419
+HTL_0525,Hotel_Santorini_525,Greece,Santorini,5,Business,,120,156,1893,2011.0,0.778,191.51,149.02,6527.0,0.048,8.7,3.8,886
+HTL_0036,Hotel_Lisbon_36,Portugal,Lisbon,4,Independent,,147,144,1967,2015.0,0.71,164.51,116.73,,0.126,8.6,4.4,283
+HTL_0541,Hotel_Venice_541,italy,Venice,3,Chain - International,NH Hotels,115,97,1969,2009.0,0.98,153.92,150.84,6331.5,0.112,,3.7,864
+HTL_0171,Hotel_Venice_171,IT,Venice,3 star,Resort,,138,111,1981,2014.0,0.829,171.76,142.31,7168.3,0.1,6.4,3.0,1093
+HTL_0655,Hotel_Nice_655,France,Nice,2,Independent,Hilton,126,78,2013,,0.72,116.13,83.57,3843.2,0.205,7.0,2.8,878
+HTL_0708,Hotel_Florence_708,ITALY,Florence,4,Chain - International,AccorHotels,168,165,1966,2022.0,0.719,162.74,116.98,7173.4,0.14,8.1,3.9,484
+HTL_0786,Hotel_Madeira_786,PORTUGAL,Madeira,3,Boutique,,44,40,1998,2020.0,0.77,110.25,84.92,1363.8,0.071,8.3,4.2,284
+HTL_0777,Hotel_Bordeaux_777,france,Bordeaux,4,Budget,Marriott,123,134,1997,2002.0,0.774,300.26,232.34,10430.7,0.076,9.2,3.6,304
+HTL_0096,Hotel_Madeira_96,PT,Madeira,4 star,Independent,,69,80,2004,2022.0,0.804,143.23,115.22,2901.9,0.064,7.8,4.2,165
+HTL_0564,Hotel_Porto_564,PORTUGAL,Porto,5,Independent,,156,190,2014,,0.883,165.6,146.27,,0.226,9.7,4.5,383
+HTL_0241,Hotel_Naples_241,ITALY,Naples,4*,Independent,,283,298,2013,,0.651,194.65,126.76,13093.4,0.001,9.0,4.7,743
+HTL_0575,Hotel_Cologne_575,germany,Cologne,1 star,Chain - International,IHG,25,15,1972,2007.0,0.56,,64.4,587.6,0.087,6.3,2.8,66
+HTL_0461,Hotel_Amsterdam_461,Netherlands,Amsterdam,1,Chain - National,NH Hotels,68,22,1985,2018.0,0.674,99.29,66.96,1661.9,0.066,,3.4,427
+HTL_0554,Hotel_Valencia_554,Spain,Valencia,3 star,Business,,99,104,1947,2008.0,0.559,119.41,66.79,2413.6,0.02,6.3,3.4,287
+HTL_0735,Hotel_Malaga_735,España,Malaga,4,Chain - National,NH Hotels,97,96,1965,2016.0,0.802,222.15,178.26,6311.3,0.095,8.4,4.3,445
+HTL_0207,Hotel_Faro_207,PT,Faro,3,Chain - National,AccorHotels,88,64,2006,2009.0,0.586,123.15,72.12,2316.4,0.173,7.7,3.7,306
+HTL_0393,Hotel_Marseille_393,France,Marseille,1,Resort,,70,36,1999,2015.0,0.732,72.72,53.22,1359.7,0.033,5.7,3.3,267
+HTL_0398,Hotel_Santorini_398,GR,Santorini,5,Chain - International,Meliá,114,135,2021,,0.98,156.92,153.78,6398.9,0.05,10.0,4.5,856
+HTL_D0076,Hotel_Santorini_76,GR,Santorini,4,Independent,NH Hotels,54,68,2011,,0.722,180.29,130.2,,0.057,,3.756134546717002,292
+HTL_0218,Hotel_Amsterdam_218,NL,Amsterdam,3,Business,,70,59,1984,2023.0,0.561,159.54,89.51,2286.9,0.092,7.6,3.5,158
+HTL_0005,Hotel_Venice_5,IT,Venice,1,Chain - International,Hilton,67,34,2004,2012.0,0.771,72.06,55.55,1358.6,,5.5,2.4,205
+HTL_0643,Hotel_Frankfurt_643,DE,Frankfurt,3,Chain - International,Radisson,39,39,1969,2017.0,0.831,143.04,118.86,1692.0,0.029,7.2,3.6,233
+HTL_0740,Hotel_The Hague_740,Holland,The Hague,3,Chain - National,Hilton,70,67,1976,2004.0,0.652,108.1,70.51,1801.5,-0.065,6.7,3.1,182
+HTL_0613,Hotel_Venice_613,Italia,Venice,4,Business,,88,87,1991,2012.0,0.848,187.43,159.02,5107.6,0.114,7.4,4.3,349
+HTL_0547,Hotel_Rotterdam_547,Holland,Rotterdam,4,Boutique,AccorHotels,14,16,1975,2005.0,0.861,212.31,182.73,933.7,0.034,7.2,3.6,59
+HTL_0684,Hotel_Rotterdam_684,Netherlands,Rotterdam,three,Independent,,115,104,1987,2016.0,0.609,158.24,96.36,4044.9,0.254,6.7,3.3,571
+HTL_0099,Hotel_Malaga_99,España,Malaga,4,Resort,Marriott,243,312,1931,2017.0,0.902,132.96,119.9,10634.4,0.253,8.5,4.4,1586
+HTL_0574,Hotel_Berlin_574,germany,Berlin,2 star,Boutique,,10,7,1890,2006.0,0.643,143.1,92.09,336.1,0.203,6.9,3.5,45
+HTL_0407,Hotel_Venice_407,ITALY,Venice,2,Independent,,178,103,2019,,0.505,117.48,59.37,3857.3,,,3.9,815
+HTL_0503,Hotel_Santorini_503,Greece,Santorini,2,Chain - National,AccorHotels,211,127,1998,2013.0,0.852,107.97,91.95,7081.5,0.01,6.0,2.8,517
+HTL_0048,Hotel_Hamburg_48,Deutschland,Hamburg,3,Chain - International,Radisson,35,35,2002,2017.0,0.98,202.67,198.62,2537.3,0.03,6.7,3.0,312
+HTL_0033,Hotel_Bordeaux_33,france,Bordeaux,4,Chain - International,Marriott,90,107,2008,2011.0,0.949,269.02,255.41,8390.1,0.208,7.9,3.9,405
+HTL_0201,Hotel_Barcelona_201,spain,Barcelona,3,Independent,,60,60,1994,2022.0,0.488,140.59,68.63,,0.046,7.7,3.8,265
+HTL_0135,Hotel_Barcelona_135,ES,Barcelona,3 star,Chain - National,Radisson,117,113,2001,2023.0,0.913,165.27,150.83,6441.4,0.143,7.4,4.0,722
+HTL_0028,Hotel_Salzburg_28,Austria,Salzburg,four,Independent,,126,155,1944,2009.0,0.781,217.71,169.98,7817.2,0.141,9.1,4.6,629
+HTL_0739,Hotel_Munich_739,DE,Munich,3 star,Independent,Marriott,80,74,1994,2006.0,0.698,156.55,109.24,3189.9,0.183,6.9,3.3,239
+HTL_0231,Hotel_Salzburg_231,Austria,Salzburg,5,Budget,,279,371,1984,2017.0,0.843,304.39,256.61,26131.8,0.071,9.6,4.9,660
+HTL_0490,Hotel_Paris_490,FR,Paris,1,Chain - National,Local Chain,10,7,1997,2019.0,0.632,103.64,65.51,239.1,-0.053,5.7,3.0,18
+HTL_0379,Hotel_Mykonos_379,GREECE,Mykonos,4,Boutique,,43,47,1876,2000.0,0.721,156.56,112.9,1772.0,0.166,7.2,3.7,291
+HTL_0289,Hotel_Valencia_289,SPAIN,Valencia,3,Budget,,113,87,2015,,,158.86,58.17,2399.0,,8.9,4.5,339
+HTL_0419,Hotel_Barcelona_419,ES,Barcelona,2,Business,,58,33,2018,,0.793,93.41,74.04,1567.4,0.053,6.9,3.4,312
+HTL_0675,Hotel_Cologne_675,GERMANY,Cologne,3,Chain - International,NH Hotels,113,98,1999,2006.0,0.735,127.76,93.95,3874.8,0.184,5.2,2.4,676
+HTL_0392,Hotel_Paris_392,FRANCE,Paris,5,Chain - International,Marriott,124,166,1962,2023.0,0.835,281.05,234.78,10626.0,0.04,9.9,4.2,277
+HTL_0593,Hotel_Thessaloniki_593,GREECE,Thessaloniki,4,Chain - National,Marriott,98,101,2019,,0.796,179.93,143.16,5120.8,0.185,6.9,2.7,451
+HTL_0499,Hotel_Bordeaux_499,FRANCE,Bordeaux,5,Business,,146,185,1976,2013.0,0.976,297.24,290.0,15453.8,0.323,6.3,2.7,864
+HTL_0139,Hotel_Naples_139,ITALY,Naples,3*,Boutique,,25,24,1940,2001.0,0.98,153.7,150.63,1374.5,,,2.8,87
+HTL_0063,Hotel_Florence_63,italy,Florence,3,Resort,,179,165,1992,2004.0,0.834,129.74,108.26,7073.0,0.067,6.4,3.1,1223
+HTL_0472,Hotel_Bordeaux_472,France,Bordeaux,2,Chain - International,Local Chain,79,44,2003,2009.0,0.624,171.03,106.73,3077.6,0.168,6.6,3.5,164
+HTL_0648,Hotel_Madrid_648,Spain,Madrid,3,Independent,,107,106,1979,2022.0,0.834,144.02,120.15,4692.5,0.13,8.0,4.0,559
+HTL_0129,Hotel_Rotterdam_129,Holland,Rotterdam,4,Independent,,194,220,1968,2008.0,0.664,204.3,135.68,9607.5,0.023,7.4,3.9,675
+HTL_D0240,Hotel_Lisbon_240,Portugal,Lisbon,3,Independent,NH Hotels,89,67,1964,2012.0,0.712,86.94,61.91,2011.2,0.042,8.6,3.6471838045390212,226
+HTL_0521,Hotel_Bilbao_521,SPAIN,Bilbao,5,Chain - National,Best Western,145,198,2019,,0.972,199.4,193.85,10259.6,0.081,9.4,4.9,1061
+HTL_0065,Hotel_Milan_65,Italia,Milan,1,Chain - National,Local Chain,22,9,1997,2005.0,0.567,71.08,40.28,323.4,0.127,4.2,2.2,117
+HTL_0015,Hotel_Madeira_15,PT,Madeira,5,Chain - National,Radisson,83,105,1989,2009.0,0.832,135.09,112.42,3405.8,0.176,9.9,4.4,174
+HTL_0157,Hotel_Valencia_157,Spain,Valencia,four,Independent,Hilton,120,136,1986,2001.0,0.641,189.14,121.16,,0.095,7.4,3.7,240
+HTL_0041,Hotel_Vienna_41,AUSTRIA,Vienna,3,Chain - National,Local Chain,56,42,1986,2021.0,0.824,165.54,136.41,2788.1,,7.4,3.4,319
+HTL_0493,Hotel_Hamburg_493,GERMANY,Hamburg,3 star,Budget,IHG,93,86,2018,,0.595,190.63,113.49,3852.4,0.152,8.7,4.4,363
+HTL_0380,Hotel_Rome_380,IT,Rome,4,Boutique,,48,43,2007,,0.804,227.12,182.61,3199.4,0.125,7.0,3.2,140
+HTL_0188,Hotel_Barcelona_188,spain,Barcelona,2,Business,,124,100,1963,,0.829,105.34,87.32,3952.0,0.264,7.8,3.9,481
+HTL_0217,Hotel_Paris_217,FRANCE,Paris,2,Chain - International,Hyatt,56,33,1963,2003.0,0.753,160.71,121.01,2473.4,0.134,5.6,3.2,342
+HTL_0053,Hotel_Mykonos_53,GREECE,Mykonos,3,Boutique,,13,11,1984,2003.0,0.754,109.66,82.71,392.4,0.192,6.7,3.5,54
+HTL_0338,Hotel_Hamburg_338,germany,Hamburg,3,Chain - National,Best Western,67,38,1986,2019.0,0.621,169.18,104.98,2567.2,,8.0,3.7,173
+HTL_0720,Hotel_Malaga_720,ES,Malaga,4,Independent,,93,99,2007,2009.0,0.833,154.74,128.93,4376.6,0.165,,4.0,584
+HTL_0725,Hotel_Hamburg_725,Deutschland,Hamburg,4,Business,,60,57,2008,2020.0,0.665,140.19,93.22,2041.6,0.141,7.8,3.9,284
+HTL_0296,Hotel_Amsterdam_296,Holland,Amsterdam,4,Chain - International,IHG,792,742,1998,2021.0,0.96,192.01,184.37,19986.6,0.122,8.2,4.0,426
+HTL_0702,Hotel_Faro_702,PT,Faro,4 star,Boutique,AccorHotels,93,112,1924,2004.0,0.819,101.2,82.93,2815.1,0.105,7.8,3.9,222
+HTL_0252,Hotel_Vienna_252,AT,Vienna,2,Boutique,,45,26,2007,2012.0,0.655,113.76,74.49,1223.5,0.136,6.5,3.5,245
+HTL_0727,Hotel_Rome_727,IT,Rome,3,Business,,67,53,1899,2018.0,0.786,185.17,145.51,3558.5,0.031,6.8,3.3,294
+HTL_0462,Hotel_Marseille_462,FR,Marseille,4,Business,,703,646,1986,,0.98,325.47,318.96,23749.800000000003,0.01,7.8,3.8,387
+HTL_0456,Hotel_Berlin_456,Germany,Berlin,4,Independent,,106,120,1993,2005.0,0.659,268.67,177.05,6850.1,0.157,8.8,4.4,372
+HTL_D0479,Hotel_Madrid_479,SPAIN,Madrid,5,Boutique,,56,75,1978,2017.0,0.829,198.14,164.33,3358.9,0.139,7.7,3.6,389
+HTL_0270,Hotel_Marseille_270,FRANCE,Marseille,2 star,Independent,,76,49,1988,,0.737,85.4,62.94,,0.212,,2.7,212
+HTL_0202,Hotel_Venice_202,ITALY,Venice,3,Boutique,,32,30,2004,2022.0,0.98,157.1,153.96,1798.3,0.041,7.5,3.7,158
+HTL_0162,Hotel_Venice_162,Italia,Venice,2,Independent,,81,61,1963,2019.0,0.638,87.12,55.58,,0.148,6.3,3.6,157
+HTL_0556,Hotel_Faro_556,Portugal,Faro,5,Chain - International,Best Western,88,120,1982,,0.98,171.21,167.79,5389.3,0.223,7.7,3.8,550
+HTL_0730,Hotel_Marseille_730,FRANCE,Marseille,two,Chain - International,IHG,80,52,1990,2012.0,0.742,162.26,120.38,3515.1,0.086,5.5,2.4,581
+HTL_0402,Hotel_Milan_402,ITALY,Milan,2*,Independent,NH Hotels,81,58,1928,2014.0,0.71,175.23,124.49,,,8.4,4.3,171
+HTL_0703,Hotel_Bilbao_703,Spain,Bilbao,3,Chain - National,Local Chain,120,93,1974,2008.0,0.758,112.36,85.13,3728.5,0.159,8.0,3.2,628
+HTL_0477,Hotel_Barcelona_477,Spain,Barcelona,4,Chain - International,Best Western,92,98,1965,2010.0,0.781,84.79,66.24,2224.5,0.161,8.1,4.2,437
+HTL_0106,Hotel_Hamburg_106,Germany,Hamburg,4,Chain - National,Radisson,87,87,1903,,0.705,192.87,136.01,4319.1,-0.04,7.9,3.6,566
+HTL_0566,Hotel_Milan_566,ITALY,Milan,4,Chain - National,AccorHotels,165,192,1981,2016.0,0.752,251.72,189.29,11400.2,0.16,,4.4,571
+HTL_0390,Hotel_Athens_390,GR,Athens,4,Independent,,77,92,1997,,0.829,182.26,151.01,4244.2,0.106,8.5,3.6,636
+HTL_0002,Hotel_Salzburg_2,AUSTRIA,Salzburg,1,Chain - International,Meliá,35,16,1987,2015.0,0.722,103.14,74.47,951.3,0.053,4.9,2.2,73
+HTL_0772,Hotel_Porto_772,PORTUGAL,Porto,2,Chain - International,IHG,75,67,1973,2019.0,0.646,94.56,61.1,1672.7,0.081,5.6,2.8,263
+HTL_0562,Hotel_Milan_562,IT,Milan,3,Boutique,,68,61,1970,2006.0,0.808,124.43,100.5,2494.5,0.088,6.6,3.0,476
+HTL_0081,Hotel_Nice_81,france,Nice,3*,Boutique,,45,33,1911,2012.0,0.742,136.61,101.38,1665.1,0.249,6.9,3.3,107
+HTL_0206,Hotel_Athens_206,GREECE,Athens,5,Independent,,113,125,2021,,0.819,254.94,208.74,8609.6,0.104,9.3,4.3,602
+HTL_0035,Hotel_Faro_35,Portugal,Faro,2,Independent,,61,47,1971,2008.0,0.719,75.32,54.17,,,6.7,4.0,244
+HTL_0509,Hotel_Bilbao_509,SPAIN,Bilbao,3,Independent,,103,88,2022,,0.639,126.86,81.12,3049.9,0.076,7.7,3.8,448
+HTL_0428,Hotel_Berlin_428,GERMANY,Berlin,three,Boutique,,37,33,1999,2015.0,0.718,171.77,123.3,1665.2,0.136,6.4,3.4,261
+HTL_0455,Hotel_Innsbruck_455,AT,Innsbruck,3,Chain - International,Hilton,76,76,1994,2002.0,0.83,217.84,180.89,5017.9,0.176,8.1,3.6,269
+HTL_0367,Hotel_Bordeaux_367,France,Bordeaux,3,Chain - National,Marriott,58,43,2000,2001.0,0.732,156.91,114.85,2431.4,0.157,8.5,3.8,345
+HTL_0092,Hotel_Bilbao_92,spain,Bilbao,4,Independent,,73,81,1977,2016.0,0.738,203.86,150.43,4008.3,0.081,7.6,3.9,141
+HTL_0340,Hotel_Vienna_340,AT,Vienna,3,Independent,,116,108,1865,2002.0,0.685,154.01,105.56,4469.3,0.229,7.6,3.7,235
+HTL_0565,Hotel_Florence_565,ITALY,Florence,5,Resort,,191,276,1973,2001.0,0.98,235.74,231.03,16106.0,0.225,9.1,4.3,1478
+HTL_0346,Hotel_Lisbon_346,Portugal,Lisbon,4,Budget,,216,261,2000,2022.0,0.814,140.71,114.51,9028.4,0.019,8.4,3.7,1744
+HTL_0242,Hotel_Frankfurt_242,Germany,Frankfurt,three,Independent,,104,-6,1984,2020.0,0.722,221.12,159.72,,0.17,7.1,3.0,326
+HTL_0014,Hotel_Innsbruck_14,AUSTRIA,Innsbruck,4,Chain - International,Meliá,107,126,1985,2002.0,0.959,195.97,187.97,7341.4,0.103,9.8,4.4,263
+HTL_0316,Hotel_Lyon_316,FR,Lyon,three,Chain - International,Marriott,132,125,1965,2013.0,0.712,165.58,117.94,5682.2,0.164,7.5,3.3,688
+HTL_0601,Hotel_Malaga_601,SPAIN,Malaga,4,Chain - National,Hyatt,112,123,1976,2012.0,0.713,164.4,117.21,4791.6,0.155,7.5,3.4,608
+HTL_0388,Hotel_Barcelona_388,SPAIN,Barcelona,2,Chain - International,Hilton,85,68,1976,2014.0,0.759,96.55,73.24,2272.3,0.092,7.5,3.6,529
+HTL_0274,Hotel_Lisbon_274,PT,Lisbon,4,Chain - National,Local Chain,123,127,1999,2007.0,0.883,175.33,154.83,6951.1,0.17,8.8,3.9,494
+HTL_0167,Hotel_Venice_167,italy,Venice,4,Chain - International,Hilton,110,117,1924,2019.0,0.889,148.67,132.15,5306.0,0.144,8.2,4.3,832
+HTL_D0679,Hotel_Venice_679,IT,Venice,4*,Independent,Hilton,69,80,1893,2021.0,0.692,183.2,126.81,,0.196,8.0,4.5,248
+HTL_0647,Hotel_Madeira_647,PT,Madeira,1,Chain - International,Best Western,70,34,1962,2014.0,0.689,53.58,36.93,943.6,0.112,,3.5,190
+HTL_0485,Hotel_Innsbruck_485,Austria,Innsbruck,3,Budget,,121,97,1929,2015.0,0.475,171.22,81.29,3590.3,0.134,7.0,3.4,387
+HTL_D0298,Hotel_The Hague_298,Netherlands,The Hague,3,Independent,NH Hotels,71,67,1977,2016.0,0.739,205.05,151.44,,0.055,6.7,2.6,273
+HTL_0505,Hotel_Madrid_505,spain,Madrid,2*,Business,,77,59,1988,2016.0,0.721,103.29,74.5,2093.9,0.001,6.6,3.0,493
+HTL_0244,Hotel_Santorini_244,Greece,Santorini,4,Chain - International,Meliá,127,154,1960,2016.0,0.668,155.96,104.25,4832.4,0.103,8.6,4.1,693
+HTL_0567,Hotel_Lyon_567,FRANCE,Lyon,three,Budget,,91,76,1986,2011.0,0.628,223.59,140.38,4662.8,,7.9,4.0,448
+HTL_0563,Hotel_Seville_563,Spain,Seville,4,Independent,,74,77,2000,2012.0,0.741,174.67,129.48,3497.2,0.109,8.6,4.3,199
+HTL_0687,Hotel_Faro_687,PT,Faro,4 star,Chain - National,Radisson,113,124,1985,2013.0,0.72,180.54,130.02,5362.8,0.239,6.8,3.8,517
+HTL_0190,Hotel_Frankfurt_190,germany,Frankfurt,3,Chain - National,AccorHotels,41,40,1972,2005.0,0.76,166.41,126.49,1892.9,0.044,8.2,3.0,185
+HTL_0783,Hotel_Athens_783,GREECE,Athens,2,Independent,,81,63,1907,2020.0,0.577,84.83,48.91,1446.0,0.03,6.0,2.9,413
+HTL_0700,Hotel_Innsbruck_700,Austria,Innsbruck,3,Chain - National,NH Hotels,68,50,1963,2001.0,0.735,121.69,89.45,2220.1,0.07,8.2,5.197079646884932,220
+HTL_0476,Hotel_Malaga_476,SPAIN,Malaga,2,Boutique,,25,12,1923,2023.0,0.794,73.29,58.21,531.1,0.034,6.5,3.2,193
+HTL_0682,Hotel_Porto_682,Portugal,Porto,4,Business,,110,126,1986,2015.0,0.779,160.18,124.83,5011.8,0.167,8.2,3.8,293
+HTL_0511,Hotel_Frankfurt_511,germany,Frankfurt,3,Independent,,50,45,2004,2013.0,0.652,226.02,147.36,,0.131,8.5,4.1,219
+HTL_0059,Hotel_Milan_59,Italia,Milan,5,Resort,,269,388,2014,,0.927,248.14,230.12,22594.7,0.164,9.1,4.1,1520
+HTL_0475,Hotel_Nice_475,france,Nice,3,Chain - International,AccorHotels,71,61,2014,,0.892,208.33,185.89,4817.3,0.065,7.6,3.6,583
+HTL_0561,Hotel_Lyon_561,france,Lyon,2,Chain - National,Hilton,46,26,2020,,0.927,106.88,99.12,1664.3,0.055,6.5,3.0,133
+HTL_0748,Hotel_Frankfurt_748,DE,Frankfurt,4,Chain - International,NH Hotels,81,83,2001,2017.0,0.668,260.01,173.56,5131.4,0.255,8.3,3.7,298
+HTL_0253,Hotel_Lyon_253,FR,Lyon,4,Independent,,79,98,1914,,0.812,280.56,227.95,,,8.4,3.7,588
+HTL_0022,Hotel_Barcelona_22,spain,Barcelona,5,Independent,,105,118,1983,2012.0,0.98,295.94,290.02,,0.21,9.1,4.0,954
+HTL_0314,Hotel_Naples_314,Italia,Naples,3,Chain - International,AccorHotels,54,-6,1993,2014.0,0.808,187.08,151.23,2980.8,0.127,5.8,2.9,394
+HTL_0460,Hotel_Santorini_460,GREECE,Santorini,3,Chain - National,Local Chain,119,111,1996,2021.0,0.84,130.09,109.25,4745.4,0.21,,3.3,535
+HTL_0161,Hotel_Munich_161,GERMANY,Munich,4,Chain - International,AccorHotels,104,107,1990,2003.0,0.933,334.96,312.53,11863.7,0.079,7.2,3.2,430
+HTL_0277,Hotel_Mykonos_277,GR,Mykonos,2,Boutique,,40,21,1899,2015.0,0.699,95.09,66.43,969.9,0.05,5.7,2.5,124
+HTL_0192,Hotel_Madrid_192,Spain,Madrid,2,Chain - National,Hyatt,45,32,2022,,0.724,116.95,84.7,1391.2,0.125,8.8,3.6,202
+HTL_0386,Hotel_Malaga_386,Spain,Malaga,5,Chain - National,Meliá,136,183,2005,2005.0,0.742,223.26,165.65,8223.1,0.169,10.0,4.7,825
+HTL_0414,Hotel_Naples_414,ITALY,Naples,4,Independent,Marriott,50,53,2017,,0.694,232.4,161.31,2944.0,0.222,8.5,3.6,151
+HTL_0492,Hotel_Munich_492,Deutschland,Munich,4,Resort,NH Hotels,336,341,1983,2017.0,0.98,276.87,271.33,33276.1,0.082,7.9,3.6,1311
+HTL_0344,Hotel_Hamburg_344,germany,Hamburg,3,Independent,,110,100,2011,,0.783,156.66,122.73,4927.5,0.109,6.4,2.8,432
+HTL_0770,Hotel_Bordeaux_770,FR,Bordeaux,4*,Chain - National,Best Western,201,247,1989,2020.0,0.799,293.31,234.48,17202.6,0.086,,3.3,1250
+HTL_0309,Hotel_Venice_309,ITALY,Venice,4,Chain - National,Local Chain,98,114,1963,2017.0,0.895,227.19,203.41,7275.9,0.113,7.9,3.7,526
+HTL_0662,Hotel_Bilbao_662,ES,Bilbao,5,Chain - National,Meliá,111,141,2043,,0.877,265.54,232.85,9433.8,0.094,9.8,4.6,927
+HTL_0131,Hotel_Lisbon_131,PORTUGAL,Lisbon,3,Independent,Marriott,96,101,1969,2008.0,0.766,96.43,73.87,2588.3,0.225,8.7,4.0,256
+HTL_0664,Hotel_Frankfurt_664,GERMANY,Frankfurt,1,Chain - International,Hilton,61,27,1977,2022.0,0.646,76.3,49.31,1097.9,0.122,,3.1,286
+HTL_0100,Hotel_Vienna_100,AT,Vienna,3,Chain - National,Best Western,58,58,1970,2022.0,0.638,126.46,80.63,1706.8,-0.004,6.1,3.4,263
+HTL_0373,Hotel_Paris_373,FR,Paris,2,Business,,20,11,1968,2019.0,0.831,159.15,132.2,965.1,,,2.5,55
+HTL_0088,Hotel_Santorini_88,Greece,Santorini,5 star,Independent,,97,120,2003,2017.0,0.818,242.05,198.09,7013.3,0.159,8.8,4.3,696
+HTL_0459,Hotel_Munich_459,GERMANY,Munich,4,Business,,73,89,2013,,0.751,227.12,170.51,4543.4,0.083,9.3,4.5,502
+HTL_0331,Hotel_Madeira_331,PT,Madeira,3,Boutique,,46,39,1970,2022.0,0.866,126.67,109.75,1842.8,0.101,4.5,2.3,322
+HTL_0215,Hotel_Thessaloniki_215,GREECE,Thessaloniki,4,Chain - National,IHG,101,93,2018,,0.648,189.96,123.18,4541.0,0.159,10.0,4.8,318
+HTL_0467,Hotel_Paris_467,FRANCE,Paris,2,Business,,166,115,1960,2023.0,0.666,157.26,104.73,6345.6,0.274,,3.9,446
+HTL_0122,Hotel_Athens_122,Greece,Athens,2,Budget,,265,178,1972,2008.0,0.521,124.32,64.82,6269.6,0.094,5.7,2.6,1339
+HTL_0615,Hotel_Thessaloniki_615,Greece,Thessaloniki,3,Budget,,182,144,1985,2000.0,0.509,144.3,73.49,4881.7,0.179,7.6,3.0,793
+HTL_0021,Hotel_Paris_21,France,Paris,3,Chain - National,Meliá,83,75,1981,2022.0,0.684,181.25,124.05,3758.1,0.163,7.8,4.1,240
+HTL_0701,Hotel_Bordeaux_701,FRANCE,Bordeaux,3,Boutique,,26,21,1990,2016.0,0.816,,176.14,1671.6,0.086,6.7,2.9,121
+HTL_0072,Hotel_Lyon_72,FR,Lyon,2 star,Chain - National,Meliá,92,45,1960,2007.0,0.902,193.12,174.25,5851.3,0.056,6.0,3.5,474
+HTL_0107,Hotel_Nice_107,France,Nice,4,Chain - National,Marriott,116,114,1985,2013.0,0.896,303.48,271.86,11510.7,0.052,8.1,3.9,1023
+HTL_0271,Hotel_Lyon_271,france,Lyon,3,Independent,,101,103,1986,2010.0,0.74,161.19,119.31,4398.3,-0.114,7.8,3.5,328
+HTL_0436,Hotel_Lyon_436,france,Lyon,3,Resort,,310,335,2018,,0.976,252.7,246.73,27917.8,0.133,6.8,3.0,795
+HTL_0103,Hotel_Lyon_103,France,Lyon,1,Chain - International,Radisson,37,14,1966,2002.0,0.702,100.27,70.43,951.2,0.136,5.7,2.6,137
