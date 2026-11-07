@@ -1,0 +1,401 @@
+id,categoria,estrellas,texto
+1,mochila,4,Buena relación calidad precio.
+2,cafetera,5,El depósito de agua es grande y fácil de limpiar. No tuve ningún problema. Me devolvieron el dinero sin preguntas.
+3,auriculares,1,No volveré a comprar aquí.
+4,mochila,4,Los tirantes son cómodos y acolchados. Repetiré la compra.
+5,mochila,4,Los bolsillos están muy bien pensados.
+6,zapatillas,2,La suela se despegó a las tres semanas. Una decepción. No lo recomiendo.
+7,mochila,1,El material es fino y malo. Es para uso diario. Los tirantes se clavan en el hombro.
+8,cafetera,4,Calienta el agua en segundos. La web es cómoda y el pago fue rápido.
+9,cafetera,4,Nada que objetar. Envío rápido y bien avisado por mensaje.
+10,zapatillas,1,"El material es malo y se rompió. Genial, otra semana más esperando el pedido."
+11,zapatillas,5,"El pedido llegó en dos días, sin ningún problema. El embalaje era impecable."
+12,cafetera,1,Hace un ruido horrible al calentar.
+13,auriculares,5,Se conectan por bluetooth al momento. Me devolvieron el dinero sin preguntas. El embalaje era impecable.
+14,auriculares,5,Son cómodos incluso varias horas. El envío llegó puntual.
+15,auriculares,1,Es caro para la calidad que tiene. Lo encontré más barato en otra tienda. El bluetooth se desconecta cada poco.
+16,zapatillas,2,Una decepción. Es para uso diario.
+17,mochila,4,Nada que objetar.
+18,zapatillas,1,Rozan en el talón. Lo pedí un lunes por la tarde.
+19,cafetera,5,"Por este precio es una compra excelente. Resolvieron mi problema en un día. Genial, otra semana más esperando el pedido."
+20,zapatillas,1,"La talla es pequeña, pedid una más. Lo encontré más barato en otra tienda."
+21,zapatillas,4,La suela agarra muy bien. Son unas zapatillas para caminar.
+22,mochila,2,Los tirantes se clavan en el hombro.
+23,auriculares,2,La cancelación de ruido no funciona.
+24,auriculares,5,El envío llegó puntual.
+25,zapatillas,5,El pie va perfecto y no rozan. La suela agarra muy bien.
+26,zapatillas,4,Son unas zapatillas para caminar. La suela agarra muy bien.
+27,auriculares,5,La cancelación de ruido funciona muy bien. Comprar por la app fue muy fácil.
+28,cafetera,4,Calienta el agua en segundos.
+29,mochila,5,Los tirantes son cómodos y acolchados. Por este precio es una compra excelente.
+30,cafetera,4,"El pedido llegó en dos días, sin ningún problema."
+31,cafetera,4,Por este precio es una compra excelente.
+32,auriculares,1,Esperé veinte minutos al teléfono para nada.
+33,zapatillas,1,"El envío tardó tres semanas. Rozan en el talón. La talla es pequeña, pedid una más."
+34,cafetera,1,No merece la pena por lo que cuesta.
+35,auriculares,5,La cancelación de ruido funciona muy bien. Me atendieron rápido y con amabilidad.
+36,cafetera,5,Respondieron a mi correo el mismo día.
+37,cafetera,5,Precio razonable para lo que ofrece.
+38,mochila,5,Los tirantes son cómodos y acolchados. Llegó antes de lo previsto.
+39,cafetera,5,Me devolvieron el dinero sin preguntas.
+40,mochila,2,Es una mochila para el portátil. Las costuras se descosen.
+41,auriculares,5,"El pedido llegó en dos días, sin ningún problema. Comprar por la app fue muy fácil. Lo recomiendo sin dudar."
+42,cafetera,1,El embalaje era malo y la caja venía abierta. Es para uso diario. La atención al cliente es lamentable.
+43,zapatillas,5,La suela agarra muy bien.
+44,zapatillas,1,Son unas zapatillas para caminar. No merece la pena por lo que cuesta. Lo encontré más barato en otra tienda.
+45,cafetera,4,La atención al cliente fue excelente.
+46,zapatillas,4,Muy recomendable.
+47,auriculares,4,No está a la altura de lo que prometen. Envío rápido y bien avisado por mensaje. Es el segundo que compro en esta tienda.
+48,cafetera,4,Resolvieron mi problema en un día. Lo pedí un lunes por la tarde.
+49,auriculares,2,El auricular izquierdo dejó de sonar. Envío rápido y bien avisado por mensaje.
+50,mochila,4,Comprar por la app fue muy fácil.
+51,auriculares,5,Son unos auriculares inalámbricos. Repetiré la compra. Me devolvieron el dinero sin preguntas.
+52,cafetera,5,El depósito de agua es grande y fácil de limpiar.
+53,auriculares,2,El bluetooth se desconecta cada poco. Es para uso diario. La app no deja seguir el pedido.
+54,cafetera,5,Calienta el agua en segundos. El envío llegó puntual.
+55,zapatillas,3,Una decepción.
+56,cafetera,1,La web se colgó dos veces al pagar. No está a la altura de lo que prometen. Respondieron a mi correo el mismo día.
+57,auriculares,4,Son unos auriculares inalámbricos. Lo elegí por las opiniones de otros clientes.
+58,cafetera,4,Acepta cápsulas de varias marcas.
+59,mochila,4,La cremallera va suave. Resolvieron mi problema en un día. Los tirantes son cómodos y acolchados.
+60,mochila,4,Lo recomiendo sin dudar. El embalaje era impecable.
+61,mochila,4,Es una mochila para el portátil. Venía muy bien protegido.
+62,cafetera,3,Las cápsulas se atascan.
+63,cafetera,2,Dejó de calentar a los dos meses. La atención al cliente es lamentable.
+64,mochila,5,Muy recomendable.
+65,cafetera,4,Calienta el agua en segundos. No tuve ningún problema.
+66,mochila,5,Los bolsillos están muy bien pensados.
+67,zapatillas,3,Envío rápido y bien avisado por mensaje. Lo elegí por las opiniones de otros clientes. Es para uso diario.
+68,cafetera,5,El depósito de agua es grande y fácil de limpiar.
+69,cafetera,4,Hace poco ruido y el café está bueno. La web es cómoda y el pago fue rápido.
+70,auriculares,5,Muy recomendable. No tuve ningún problema. Lo compré como regalo.
+71,mochila,1,Mala experiencia de principio a fin. La caja llegó dañada.
+72,cafetera,1,Las cápsulas se atascan. El paquete llegó con retraso y nadie avisó.
+73,zapatillas,4,Nada que objetar.
+74,cafetera,4,Lo recomiendo sin dudar. La devolución fue sencilla y rápida. Acepta cápsulas de varias marcas.
+75,mochila,1,No cabe el portátil.
+76,zapatillas,3,El embalaje era impecable.
+77,cafetera,5,Resolvieron mi problema en un día. El café sale con mucha crema.
+78,mochila,1,No cabe el portátil. No merece la pena por lo que cuesta. La web se colgó dos veces al pagar.
+79,auriculares,5,Se conectan por bluetooth al momento. Por este precio es una compra excelente.
+80,zapatillas,5,El pie va perfecto y no rozan.
+81,mochila,2,El envío tardó tres semanas.
+82,zapatillas,1,"La talla es pequeña, pedid una más. Rozan en el talón. Son incómodas y pesan."
+83,auriculares,5,Se conectan por bluetooth al momento. Repetiré la compra.
+84,cafetera,5,El café sale con mucha crema.
+85,mochila,5,Los bolsillos están muy bien pensados.
+86,cafetera,4,El depósito de agua es grande y fácil de limpiar.
+87,mochila,5,Los bolsillos están muy bien pensados. Venía muy bien protegido. Lo compré como regalo.
+88,cafetera,2,Dejó de calentar a los dos meses.
+89,mochila,5,Muy recomendable. Venía muy bien protegido. Envío rápido y bien avisado por mensaje.
+90,auriculares,1,La web se colgó dos veces al pagar. La app no deja seguir el pedido.
+91,mochila,4,Estoy muy contento con la compra.
+92,auriculares,1,Mala experiencia de principio a fin. No volveré a comprar aquí.
+93,mochila,5,Llegó antes de lo previsto. No tuve ningún problema.
+94,zapatillas,3,El pie va perfecto y no rozan.
+95,cafetera,2,El café sale frío.
+96,zapatillas,4,Nada que objetar.
+97,mochila,4,Nada que objetar.
+98,cafetera,2,Hace un ruido horrible al calentar.
+99,mochila,5,Cabe el portátil y los libros. Me devolvieron el dinero sin preguntas.
+100,mochila,5,El envío llegó puntual. Me devolvieron el dinero sin preguntas.
+101,zapatillas,4,El pie va perfecto y no rozan.
+102,auriculares,4,La web es cómoda y el pago fue rápido.
+103,zapatillas,5,Lo recomiendo sin dudar. La atención al cliente fue excelente.
+104,auriculares,2,Son unos auriculares inalámbricos. El servicio de atención no resolvió nada.
+105,cafetera,5,"El café sale con mucha crema. El pedido llegó en dos días, sin ningún problema."
+106,auriculares,4,Son cómodos incluso varias horas.
+107,mochila,5,Me devolvieron el dinero sin preguntas. Venía muy bien protegido.
+108,zapatillas,4,El pie va perfecto y no rozan.
+109,mochila,4,Los tirantes son cómodos y acolchados. Lo pedí un lunes por la tarde.
+110,zapatillas,5,El pie va perfecto y no rozan.
+111,cafetera,5,Muy recomendable.
+112,cafetera,2,Dejó de calentar a los dos meses.
+113,auriculares,5,Venía muy bien protegido. Comprar por la app fue muy fácil.
+114,zapatillas,2,La suela agarra muy bien. No volveré a comprar aquí. No merece la pena por lo que cuesta.
+115,zapatillas,3,La suela se despegó a las tres semanas. Nada que objetar.
+116,auriculares,3,Son cómodos incluso varias horas.
+117,cafetera,1,Es una cafetera de cápsulas. La app no deja seguir el pedido. Es caro para la calidad que tiene.
+118,mochila,1,No cabe el portátil.
+119,mochila,2,La atención al cliente es lamentable. No cabe el portátil.
+120,mochila,4,Cabe el portátil y los libros. No tuve ningún problema.
+121,cafetera,1,El depósito pierde agua por la base.
+122,auriculares,2,La batería dura menos de una hora. El embalaje era malo y la caja venía abierta. El auricular izquierdo dejó de sonar.
+123,mochila,1,El material es fino y malo.
+124,mochila,5,La web es cómoda y el pago fue rápido. La atención al cliente fue excelente.
+125,cafetera,1,"Genial, otra semana más esperando el pedido."
+126,auriculares,1,El bluetooth se desconecta cada poco. El embalaje era malo y la caja venía abierta. La web es cómoda y el pago fue rápido.
+127,cafetera,5,Venía muy bien protegido.
+128,zapatillas,1,La caja llegó dañada.
+129,mochila,5,"Repetiré la compra. El pedido llegó en dos días, sin ningún problema. La atención al cliente fue excelente."
+130,cafetera,1,El café sale frío.
+131,zapatillas,1,Son incómodas y pesan. No está a la altura de lo que prometen.
+132,mochila,2,No cabe el portátil.
+133,zapatillas,5,El pie va perfecto y no rozan. Respondieron a mi correo el mismo día.
+134,cafetera,5,Calienta el agua en segundos. Acepta cápsulas de varias marcas. Por este precio es una compra excelente.
+135,cafetera,1,"Genial, otra semana más esperando el pedido. Es para uso diario. No volveré a comprar aquí."
+136,auriculares,5,La atención al cliente fue excelente. Se conectan por bluetooth al momento.
+137,mochila,5,Comprar por la app fue muy fácil.
+138,cafetera,5,Resolvieron mi problema en un día.
+139,zapatillas,5,Ligeras y buenas para caminar. La atención al cliente fue excelente.
+140,cafetera,1,El servicio de atención no resolvió nada.
+141,zapatillas,1,Son incómodas y pesan. Lo compré como regalo.
+142,cafetera,3,Hace un ruido horrible al calentar.
+143,zapatillas,5,La talla es la correcta. Repetiré la compra.
+144,cafetera,1,Nadie respondió a mis correos.
+145,mochila,1,No lo recomiendo. El embalaje era malo y la caja venía abierta.
+146,auriculares,1,La devolución fue un problema. Una decepción.
+147,cafetera,5,Acepta cápsulas de varias marcas.
+148,mochila,3,No cabe el portátil.
+149,mochila,2,La caja llegó dañada.
+150,cafetera,2,La web se colgó dos veces al pagar. Es para uso diario.
+151,mochila,5,La cremallera va suave. Por este precio es una compra excelente.
+152,zapatillas,4,Rozan en el talón. El pie va perfecto y no rozan. Ligeras y buenas para caminar.
+153,cafetera,1,No lo recomiendo. La app no deja seguir el pedido.
+154,zapatillas,4,La suela agarra muy bien.
+155,cafetera,5,Respondieron a mi correo el mismo día.
+156,auriculares,5,El sonido es excelente y los graves se notan. Lo pedí un lunes por la tarde.
+157,auriculares,2,La atención al cliente es lamentable.
+158,auriculares,3,No lo recomiendo. No tuve ningún problema.
+159,cafetera,3,El envío tardó tres semanas.
+160,auriculares,2,La cancelación de ruido no funciona. Todavía no me han devuelto el dinero.
+161,mochila,1,Los tirantes se clavan en el hombro. No está a la altura de lo que prometen.
+162,cafetera,4,Venía muy bien protegido. Lo pedí un lunes por la tarde.
+163,auriculares,1,Lo compré como regalo. El auricular izquierdo dejó de sonar. El servicio de atención no resolvió nada.
+164,auriculares,5,Respondieron a mi correo el mismo día.
+165,zapatillas,5,Son unas zapatillas para caminar. Comprar por la app fue muy fácil. Me devolvieron el dinero sin preguntas.
+166,cafetera,4,No está a la altura de lo que prometen. La web es cómoda y el pago fue rápido. El embalaje era impecable.
+167,zapatillas,5,La suela agarra muy bien.
+168,zapatillas,5,Venía muy bien protegido. La talla es la correcta. Repetiré la compra.
+169,zapatillas,1,Son incómodas y pesan. La app no deja seguir el pedido. Es el segundo que compro en esta tienda.
+170,cafetera,4,El depósito de agua es grande y fácil de limpiar.
+171,mochila,4,La cremallera va suave.
+172,cafetera,1,Hace un ruido horrible al calentar. Las cápsulas se atascan.
+173,zapatillas,1,Son incómodas y pesan. No lo recomiendo.
+174,cafetera,1,El embalaje era malo y la caja venía abierta.
+175,zapatillas,2,Son incómodas y pesan.
+176,zapatillas,4,Llegó antes de lo previsto. Ligeras y buenas para caminar. Nada que objetar.
+177,zapatillas,4,La suela agarra muy bien.
+178,cafetera,5,Resolvieron mi problema en un día.
+179,auriculares,2,Son unos auriculares inalámbricos. El servicio de atención no resolvió nada.
+180,mochila,5,Los tirantes son cómodos y acolchados.
+181,mochila,1,La cremallera se rompió al mes. Es una mochila para el portátil.
+182,cafetera,4,Es una cafetera de cápsulas. Buena relación calidad precio.
+183,cafetera,2,No llegó en la fecha prometida. Lo pedí un lunes por la tarde.
+184,auriculares,5,La batería dura dos días. Son cómodos incluso varias horas.
+185,mochila,5,Estoy muy contento con la compra.
+186,zapatillas,4,El pie va perfecto y no rozan.
+187,cafetera,5,El café sale con mucha crema. Resolvieron mi problema en un día.
+188,zapatillas,1,El material es malo y se rompió.
+189,auriculares,1,La caja llegó dañada. La atención al cliente es lamentable.
+190,mochila,3,La cremallera se rompió al mes.
+191,cafetera,1,Nadie respondió a mis correos. Las cápsulas se atascan.
+192,zapatillas,4,Es para uso diario. Lo elegí por las opiniones de otros clientes.
+193,zapatillas,2,La suela se despegó a las tres semanas.
+194,mochila,1,No volveré a comprar aquí. La caja llegó dañada.
+195,cafetera,4,Es una cafetera de cápsulas. Es el segundo que compro en esta tienda. Resolvieron mi problema en un día.
+196,zapatillas,5,"Ligeras y buenas para caminar. Por este precio es una compra excelente. Genial, otra semana más esperando el pedido."
+197,auriculares,5,La cancelación de ruido funciona muy bien. No tuve ningún problema.
+198,mochila,4,Comprar por la app fue muy fácil.
+199,auriculares,5,La cancelación de ruido funciona muy bien. El envío llegó puntual.
+200,cafetera,2,No llegó en la fecha prometida.
+201,zapatillas,4,La suela agarra muy bien. La web es cómoda y el pago fue rápido.
+202,mochila,5,Los tirantes son cómodos y acolchados. La atención al cliente fue excelente.
+203,cafetera,2,Es una cafetera de cápsulas. La caja llegó dañada.
+204,cafetera,5,El depósito de agua es grande y fácil de limpiar. Repetiré la compra. La atención al cliente fue excelente.
+205,auriculares,2,La cancelación de ruido funciona muy bien. Es el segundo que compro en esta tienda. No merece la pena por lo que cuesta.
+206,auriculares,2,El bluetooth se desconecta cada poco. Es para uso diario.
+207,mochila,1,Los tirantes se clavan en el hombro.
+208,cafetera,1,Dejó de calentar a los dos meses.
+209,mochila,5,Los tirantes son cómodos y acolchados. Muy recomendable.
+210,mochila,5,Lo pedí un lunes por la tarde. Llegó antes de lo previsto.
+211,auriculares,4,Se conectan por bluetooth al momento.
+212,zapatillas,5,Son unas zapatillas para caminar. El embalaje era impecable.
+213,cafetera,2,El embalaje era malo y la caja venía abierta.
+214,zapatillas,5,La suela agarra muy bien. El embalaje era impecable. La talla es la correcta.
+215,cafetera,5,Lo compré como regalo. El depósito de agua es grande y fácil de limpiar.
+216,cafetera,2,El servicio de atención no resolvió nada. Dejó de calentar a los dos meses.
+217,cafetera,2,Una decepción.
+218,cafetera,2,Las cápsulas se atascan.
+219,zapatillas,5,Estoy muy contento con la compra. Respondieron a mi correo el mismo día.
+220,cafetera,5,Hace poco ruido y el café está bueno. Lo compré como regalo. Lo recomiendo sin dudar.
+221,mochila,5,Me atendieron rápido y con amabilidad. Estoy muy contento con la compra.
+222,mochila,5,Las costuras son fuertes. Cabe el portátil y los libros.
+223,auriculares,4,La cancelación de ruido funciona muy bien. Lo elegí por las opiniones de otros clientes.
+224,zapatillas,5,La suela agarra muy bien.
+225,cafetera,5,Acepta cápsulas de varias marcas. Buena relación calidad precio. Envío rápido y bien avisado por mensaje.
+226,auriculares,3,El sonido es excelente y los graves se notan.
+227,mochila,4,La web es cómoda y el pago fue rápido. Es el segundo que compro en esta tienda.
+228,auriculares,4,Se conectan por bluetooth al momento.
+229,zapatillas,5,Comprar por la app fue muy fácil.
+230,mochila,2,El servicio de atención no resolvió nada. Es una mochila para el portátil.
+231,zapatillas,5,Son muy cómodas desde el primer día.
+232,zapatillas,3,Son unas zapatillas para caminar. Llegó antes de lo previsto.
+233,auriculares,4,La cancelación de ruido funciona muy bien.
+234,zapatillas,5,Son unas zapatillas para caminar. La suela agarra muy bien. La web es cómoda y el pago fue rápido.
+235,zapatillas,5,Es para uso diario. Son muy cómodas desde el primer día.
+236,zapatillas,5,Venía muy bien protegido. Ligeras y buenas para caminar.
+237,auriculares,1,Es caro para la calidad que tiene. Lo pedí un lunes por la tarde. Una decepción.
+238,zapatillas,4,Son unas zapatillas para caminar. El embalaje era impecable.
+239,mochila,4,Envío rápido y bien avisado por mensaje.
+240,mochila,1,Los tirantes se clavan en el hombro. No llegó en la fecha prometida.
+241,auriculares,2,La atención al cliente es lamentable.
+242,mochila,4,Cabe el portátil y los libros. La cremallera va suave.
+243,mochila,5,Cabe el portátil y los libros. La cremallera va suave.
+244,zapatillas,5,Son muy cómodas desde el primer día.
+245,zapatillas,2,"Genial, otra semana más esperando el pedido."
+246,mochila,2,Las costuras se descosen. La app no deja seguir el pedido. No está a la altura de lo que prometen.
+247,cafetera,5,Acepta cápsulas de varias marcas.
+248,mochila,5,Los tirantes son cómodos y acolchados.
+249,cafetera,1,"El embalaje era malo y la caja venía abierta. Nadie respondió a mis correos. Genial, otra semana más esperando el pedido."
+250,mochila,5,Nada que objetar. Respondieron a mi correo el mismo día. No tuve ningún problema.
+251,mochila,1,La caja llegó dañada. Todavía no me han devuelto el dinero.
+252,mochila,3,Llegó antes de lo previsto.
+253,cafetera,5,Llegó antes de lo previsto. No tuve ningún problema.
+254,auriculares,4,Envío rápido y bien avisado por mensaje. Repetiré la compra.
+255,zapatillas,4,El embalaje era impecable.
+256,zapatillas,5,Ligeras y buenas para caminar. Es el segundo que compro en esta tienda. Llegó antes de lo previsto.
+257,auriculares,5,Se conectan por bluetooth al momento.
+258,zapatillas,1,"La talla es pequeña, pedid una más. El envío tardó tres semanas."
+259,mochila,5,Los bolsillos están muy bien pensados. La devolución fue sencilla y rápida.
+260,cafetera,1,Mala experiencia de principio a fin. El embalaje era malo y la caja venía abierta.
+261,cafetera,1,El paquete llegó con retraso y nadie avisó. No está a la altura de lo que prometen.
+262,mochila,1,Una decepción. El embalaje era malo y la caja venía abierta. Lo encontré más barato en otra tienda.
+263,auriculares,1,El sonido es flojo y sin graves. No está a la altura de lo que prometen.
+264,auriculares,5,Me devolvieron el dinero sin preguntas.
+265,zapatillas,5,Me atendieron rápido y con amabilidad. La suela agarra muy bien.
+266,mochila,5,Por este precio es una compra excelente.
+267,auriculares,3,El sonido es excelente y los graves se notan.
+268,cafetera,5,Es para uso diario. La atención al cliente fue excelente.
+269,auriculares,4,El sonido es excelente y los graves se notan.
+270,mochila,1,Una decepción. No cabe el portátil. No llegó en la fecha prometida.
+271,mochila,4,Cabe el portátil y los libros. Lo pedí un lunes por la tarde. El envío llegó puntual.
+272,auriculares,4,Me atendieron rápido y con amabilidad. Son unos auriculares inalámbricos.
+273,zapatillas,5,El pie va perfecto y no rozan.
+274,mochila,2,El material es fino y malo.
+275,zapatillas,5,Son muy cómodas desde el primer día. La web es cómoda y el pago fue rápido.
+276,auriculares,4,Nada que objetar. Comprar por la app fue muy fácil.
+277,auriculares,4,La batería dura dos días. Comprar por la app fue muy fácil. Estoy muy contento con la compra.
+278,zapatillas,3,Esperé veinte minutos al teléfono para nada. Estoy muy contento con la compra.
+279,zapatillas,2,Son incómodas y pesan. El material es malo y se rompió.
+280,cafetera,2,Hace un ruido horrible al calentar. Una decepción. El depósito pierde agua por la base.
+281,zapatillas,5,Buena relación calidad precio. Me atendieron rápido y con amabilidad.
+282,cafetera,3,Estoy muy contento con la compra.
+283,auriculares,5,Se conectan por bluetooth al momento. Es para uso diario.
+284,mochila,4,Los tirantes son cómodos y acolchados.
+285,mochila,1,No cabe el portátil.
+286,cafetera,1,"No volveré a comprar aquí. Una decepción. Genial, otra semana más esperando el pedido."
+287,cafetera,5,El café sale con mucha crema. Comprar por la app fue muy fácil.
+288,cafetera,5,Calienta el agua en segundos. Por este precio es una compra excelente. Buena relación calidad precio.
+289,auriculares,5,Es el segundo que compro en esta tienda. Son cómodos incluso varias horas.
+290,mochila,5,Los tirantes se clavan en el hombro. La atención al cliente fue excelente. Cabe el portátil y los libros.
+291,zapatillas,2,"La talla es pequeña, pedid una más."
+292,zapatillas,5,La suela agarra muy bien. Es el segundo que compro en esta tienda.
+293,cafetera,2,Calienta el agua en segundos. No merece la pena por lo que cuesta. La web se colgó dos veces al pagar.
+294,mochila,1,El material es fino y malo. La devolución fue un problema. El servicio de atención no resolvió nada.
+295,zapatillas,4,Ligeras y buenas para caminar. Son unas zapatillas para caminar.
+296,mochila,1,Es para uso diario. La cremallera se rompió al mes.
+297,zapatillas,3,La suela agarra muy bien.
+298,mochila,1,Los tirantes se clavan en el hombro. La atención al cliente es lamentable.
+299,cafetera,5,Hace poco ruido y el café está bueno. Me devolvieron el dinero sin preguntas.
+300,auriculares,4,Son cómodos incluso varias horas. Muy recomendable.
+301,mochila,4,Los tirantes son cómodos y acolchados.
+302,cafetera,5,Calienta el agua en segundos. Resolvieron mi problema en un día.
+303,mochila,5,La cremallera va suave. Llegó antes de lo previsto.
+304,mochila,5,La cremallera va suave. Por este precio es una compra excelente. Lo compré como regalo.
+305,auriculares,5,La batería dura dos días.
+306,zapatillas,5,Es para uso diario. La suela agarra muy bien. La atención al cliente fue excelente.
+307,cafetera,2,Es el segundo que compro en esta tienda. Lo compré como regalo.
+308,cafetera,3,El café sale frío. Lo compré como regalo.
+309,mochila,2,Es una mochila para el portátil. No volveré a comprar aquí.
+310,zapatillas,4,Envío rápido y bien avisado por mensaje.
+311,mochila,5,El envío llegó puntual. Nada que objetar. Me devolvieron el dinero sin preguntas.
+312,mochila,5,Repetiré la compra.
+313,auriculares,1,El bluetooth se desconecta cada poco. La caja llegó dañada.
+314,mochila,2,El material es fino y malo.
+315,zapatillas,2,El servicio de atención no resolvió nada. Lo elegí por las opiniones de otros clientes.
+316,cafetera,2,Las cápsulas se atascan.
+317,mochila,5,Cabe el portátil y los libros. Envío rápido y bien avisado por mensaje. El envío llegó puntual.
+318,zapatillas,1,"No volveré a comprar aquí. Genial, otra semana más esperando el pedido."
+319,zapatillas,4,Son unas zapatillas para caminar. La web es cómoda y el pago fue rápido.
+320,cafetera,2,Hace poco ruido y el café está bueno. Nadie respondió a mis correos. Lo compré como regalo.
+321,cafetera,5,El café sale con mucha crema.
+322,mochila,3,Las costuras se descosen.
+323,zapatillas,4,Son muy cómodas desde el primer día. La web es cómoda y el pago fue rápido. El pie va perfecto y no rozan.
+324,mochila,5,Los tirantes son cómodos y acolchados.
+325,zapatillas,2,Rozan en el talón.
+326,cafetera,1,El paquete llegó con retraso y nadie avisó.
+327,cafetera,2,Las cápsulas se atascan.
+328,cafetera,2,El envío tardó tres semanas.
+329,mochila,5,Los bolsillos están muy bien pensados.
+330,auriculares,5,Lo elegí por las opiniones de otros clientes. Repetiré la compra. Lo recomiendo sin dudar.
+331,auriculares,5,El sonido es excelente y los graves se notan. Llegó antes de lo previsto. Por este precio es una compra excelente.
+332,zapatillas,2,La suela se despegó a las tres semanas.
+333,auriculares,2,"La app no deja seguir el pedido. Genial, otra semana más esperando el pedido."
+334,zapatillas,1,Todavía no me han devuelto el dinero.
+335,mochila,2,Las costuras se descosen.
+336,cafetera,1,Dejó de calentar a los dos meses.
+337,auriculares,4,Repetiré la compra. Estoy muy contento con la compra. Lo pedí un lunes por la tarde.
+338,mochila,5,Resolvieron mi problema en un día. Lo recomiendo sin dudar.
+339,zapatillas,5,La talla es la correcta. No tuve ningún problema.
+340,mochila,4,La devolución fue sencilla y rápida. Venía muy bien protegido.
+341,zapatillas,1,Son incómodas y pesan. Lo encontré más barato en otra tienda. La atención al cliente es lamentable.
+342,auriculares,5,Nada que objetar. La web es cómoda y el pago fue rápido.
+343,mochila,1,Los tirantes se clavan en el hombro. Es caro para la calidad que tiene.
+344,zapatillas,5,La talla es la correcta. Envío rápido y bien avisado por mensaje. Son muy cómodas desde el primer día.
+345,cafetera,2,Todavía no me han devuelto el dinero.
+346,cafetera,5,"Calienta el agua en segundos. Buena relación calidad precio. El pedido llegó en dos días, sin ningún problema."
+347,auriculares,5,"La devolución fue sencilla y rápida. El pedido llegó en dos días, sin ningún problema."
+348,zapatillas,3,El embalaje era impecable.
+349,mochila,5,Me atendieron rápido y con amabilidad.
+350,cafetera,1,El depósito pierde agua por la base.
+351,auriculares,5,Son cómodos incluso varias horas. La web es cómoda y el pago fue rápido.
+352,cafetera,1,Las cápsulas se atascan.
+353,mochila,4,Los bolsillos están muy bien pensados. Nada que objetar.
+354,zapatillas,3,Son unas zapatillas para caminar. Es el segundo que compro en esta tienda.
+355,cafetera,1,Las cápsulas se atascan.
+356,cafetera,5,El café sale frío. Lo recomiendo sin dudar. Nada que objetar.
+357,cafetera,5,Es para uso diario. Respondieron a mi correo el mismo día.
+358,zapatillas,1,"Son unas zapatillas para caminar. Genial, otra semana más esperando el pedido. La suela se despegó a las tres semanas."
+359,auriculares,2,Lo encontré más barato en otra tienda.
+360,cafetera,5,Hace poco ruido y el café está bueno. El café sale con mucha crema.
+361,zapatillas,5,El pie va perfecto y no rozan. Nada que objetar.
+362,mochila,3,La cremallera se rompió al mes.
+363,auriculares,2,El sonido es flojo y sin graves.
+364,cafetera,1,Las cápsulas se atascan. Hace un ruido horrible al calentar.
+365,zapatillas,4,Ligeras y buenas para caminar.
+366,mochila,5,Respondieron a mi correo el mismo día.
+367,auriculares,1,No llegó en la fecha prometida. Es caro para la calidad que tiene. Una decepción.
+368,zapatillas,4,La talla es la correcta. La devolución fue sencilla y rápida.
+369,zapatillas,5,Me atendieron rápido y con amabilidad. Envío rápido y bien avisado por mensaje. Respondieron a mi correo el mismo día.
+370,mochila,1,No llegó en la fecha prometida. La web se colgó dos veces al pagar.
+371,cafetera,2,Dejó de calentar a los dos meses.
+372,mochila,1,La cremallera se rompió al mes.
+373,auriculares,5,El sonido es excelente y los graves se notan. Venía muy bien protegido.
+374,cafetera,2,El depósito pierde agua por la base.
+375,zapatillas,2,Rozan en el talón. La devolución fue un problema. Lo encontré más barato en otra tienda.
+376,auriculares,3,Son unos auriculares inalámbricos. El envío tardó tres semanas.
+377,auriculares,4,Son unos auriculares inalámbricos. La atención al cliente fue excelente.
+378,auriculares,1,El sonido es flojo y sin graves. El envío tardó tres semanas.
+379,cafetera,5,El café sale con mucha crema. Por este precio es una compra excelente.
+380,zapatillas,5,La talla es la correcta.
+381,zapatillas,5,Me devolvieron el dinero sin preguntas. Nada que objetar.
+382,cafetera,3,El depósito pierde agua por la base.
+383,cafetera,5,Calienta el agua en segundos.
+384,zapatillas,1,Rozan en el talón.
+385,mochila,2,El material es fino y malo. Lo elegí por las opiniones de otros clientes.
+386,cafetera,5,Acepta cápsulas de varias marcas. Estoy muy contento con la compra.
+387,mochila,5,Los bolsillos están muy bien pensados.
+388,zapatillas,2,El material es malo y se rompió. La web se colgó dos veces al pagar.
+389,zapatillas,2,"La talla es pequeña, pedid una más."
+390,mochila,5,"Envío rápido y bien avisado por mensaje. El pedido llegó en dos días, sin ningún problema. Lo recomiendo sin dudar."
+391,cafetera,5,Muy recomendable. Lo compré como regalo. El embalaje era impecable.
+392,cafetera,4,Es una cafetera de cápsulas. Me atendieron rápido y con amabilidad.
+393,cafetera,5,El café sale con mucha crema.
+394,mochila,5,Muy recomendable. Estoy muy contento con la compra.
+395,cafetera,2,Lo encontré más barato en otra tienda. Nadie respondió a mis correos.
+396,zapatillas,5,La talla es la correcta. El envío llegó puntual.
+397,mochila,5,Llegó antes de lo previsto.
+398,cafetera,5,Acepta cápsulas de varias marcas. La atención al cliente fue excelente.
+399,auriculares,1,La batería dura menos de una hora. No llegó en la fecha prometida.
+400,cafetera,1,Todavía no me han devuelto el dinero. No merece la pena por lo que cuesta.
